@@ -1,0 +1,558 @@
+#EXTM3U
+#EXTINF:0,Trans TV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w809113791_b1344100_sleng_177560.m3u8
+#EXTINF:0,Trans 7
+#EXTGRP:TV Lokal
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:0,NET TV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w370187092_b1344100_sleng_177560.m3u8
+#EXTINF:0,ANTV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
+#EXTINF:0,SCTV
+#EXTGRP:TV Lokal
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:0,Indosiar
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/indosiar.m3u8
+#EXTINF:0,RCTI
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/rcti.m3u8
+#EXTINF:0,GLOBALTV
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/global.m3u8
+#EXTINF:0,MNC
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/mnctv.m3u8
+#EXTINF:0,INEWS HD
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/inews.m3u8
+#EXTINF:0,TV One
+#EXTGRP:TV Lokal
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+#EXTINF:0,Metro
+#EXTGRP:TV Lokal
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
+#EXTINF:0,Kompas TV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_519839.m3u8
+#EXTINF:0,RTV
+#EXTGRP:TV Lokal
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:0,O Channel
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/ochan/ochanel.m3u8
+#EXTINF:0,JAKTV
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/jak/jaktv.m3u8
+#EXTINF:0,MY TV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w167138745_b684100_sleng_177560.m3u8
+#EXTINF:0,TVRI
+#EXTGRP:TV Lokal
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,ANTARA
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/14/antara/chunklist_w1633911880_b684100_sleng_21937.m3u8
+#EXTINF:0,Berita Satu
+#EXTGRP:TV Lokal
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0,Da Ai Indonesia
+#EXTGRP:TV Lokal
+http://iptv.burhansyam.com/daai/daai.m3u8
+#EXTINF:0,TVRI Yogyakarta
+#EXTGRP:TV Lokal
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:0,Jogja TV
+#EXTGRP:TV Lokal
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:0,JITV
+#EXTGRP:TV Lokal
+https://vcdnjt.useetv.com/joss/14/jitv/chunklist_w1064998410_b684100_sleng_21937.m3u8
+#EXTINF:0,RRI NET
+#EXTGRP:TV Lokal
+https://edgejt6.useetv.com/joss/14/rrinet/chunklist_w730362791_b684100_sleng_177580.m3u8
+#EXTINF:0,Mola Sports
+#EXTGRP:Sports
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+#EXTINF:0,BeIN Sport 1 ID
+#EXTGRP:Sports
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng_16277.m3u8
+#EXTINF:0,BeIN Sport 2 ID
+#EXTGRP:Sports
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w599886783_b1344100_sleng_73846.m3u8
+#EXTINF:0,BeIN Sports Xtra
+#EXTGRP:Sports
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:0,Fight Sports
+#EXTGRP:Sports
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:0,MNC Sports
+#EXTGRP:Sports
+https://cdn-livetv6.metube.id/hls/mncsport_480/index.m3u8
+#EXTINF:0,TVRI Sports
+#EXTGRP:Sports
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0,Fox Sports 1
+#EXTGRP:Sports
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng_26373.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Sports
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1139282438_b1344100_sleng_17373.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Sports
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng_42637.m3u8
+#EXTINF:0,Redbull TV
+#EXTGRP:Sports
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,Racing.Com
+#EXTGRP:Sports
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0,PPTV HD
+#EXTGRP:Sports
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:0,TVRI SPORT
+#EXTGRP:Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0,REAL MADRID TV
+#EXTGRP:Sports
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,FightBox
+#EXTGRP:Sports
+https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
+#EXTINF:0,Usee Sports
+#EXTGRP:Sports
+https://dl.dropbox.com/s/eti9qt338a3vhdi/use.m3u8?dl=0
+#EXTINF:0,Usee Sports 2
+#EXTGRP:Sports
+https://dl.dropbox.com/s/knv0qbwo11j14qt/use2.m3u8?dl=0
+#EXTINF:0,Champion TV1
+#EXTGRP:Sports
+https://dl.dropbox.com/s/1qvilgw0so22gbh/cham.m3u8?dl=0
+#EXTINF:0,Champion TV2
+#EXTGRP:Sports
+https://dl.dropbox.com/s/faieorutykcu29p/cham2.m3u8?dl=0
+#EXTINF:0,WWE Network
+#EXTGRP:Sports
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:0,NBA
+#EXTGRP:Sports
+https://cdnbpp1.useetv.com/joss/15/nba/chunklist_w1353259665_b1344100_sleng_79873.m3u8
+#EXTINF:0,GOLF PLUS
+#EXTGRP:Sports
+https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Khusus Indihome
+https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
+#EXTINF:0,AFC HD
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
+#EXTINF:0,AXN
+#EXTGRP:Khusus Indihome
+https://cdnbpp1.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
+#EXTINF:0,Bloomberg International
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
+#EXTINF:0,Blue Ant Extreme
+#EXTGRP:Khusus Indihome
+#http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF:0,Cartoon Network
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+#EXTINF:0,Cinemax
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
+#EXTINF:0,CNBC International
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
+#EXTINF:0,CNN International
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=873D54D5C7D80531C55C5957338BB36842E10E95&profile=pass
+#EXTINF:0,Discovery Channel
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
+#EXTINF:0,Disney Channel
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
+#EXTINF:0,FOX
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
+#EXTINF:0,FOX Family Movies
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
+#EXTINF:0,Fox Movies
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
+#EXTINF:0,HBO Family
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
+#EXTINF:0,HBO HD
+#EXTGRP:Khusus Indihome
+http://iptv.burhansyam.com/hbo/hbo.m3u8
+#EXTINF:0,HBO Hits
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
+#EXTINF:0,HBO Signature
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
+#EXTINF:0,History Channel
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
+#EXTINF:0,NAT GEO People
+#EXTGRP:Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+#EXTINF:0,Dreamwork
+#EXTGRP:Movies
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng_21729.m3u8
+#EXTINF:0,FLIK
+#EXTGRP:Movies
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
+#EXTINF:0,Thrill
+#EXTGRP:Movies
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w2102222406_b684100_sleng_27378.m3u8
+#EXTINF:0,Galaxy
+#EXTGRP:Movies
+https://cdnbpp1.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
+#EXTINF:0,MY WARNER TV
+#EXTGRP:Movies
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Movies
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
+#EXTINF:0,MNX Movies
+#EXTGRP:Movies
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:0,Movies Now
+#EXTGRP:Movies
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
+#EXTINF:0,Romedy Now
+#EXTGRP:Movies
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:0,Star Movies
+#EXTGRP:Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:0,Citra Drama
+#EXTGRP:Movies
+https://dl.dropboxusercontent.com/s/nqnfvo73cp49i1y/citradrama.m3u8?dl=0
+#EXTINF:0,Cinema World
+#EXTGRP:Movies
+http://45.126.83.51/uq2663/h/h04/01.m3u8
+#EXTINF:0,Celestial Movies
+#EXTGRP:Movies
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:0,Sinema Indonesia
+#EXTGRP:Movies
+http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
+#EXTINF:0,FOX Action Movies
+#EXTGRP:Movies
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:0,Bioskop Indonesia
+#EXTGRP:Movies
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w1841713834_b684100_sleng_1364.m3u8
+#EXTINF:0,CITRA DRAMA
+#EXTGRP:Movies
+https://cdnbpp1.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
+#EXTINF:0,Animax
+#EXTGRP:Children
+https://dl.dropboxusercontent.com/s/egenrjti6f34mn4/animax.m3u8?dl=0
+#EXTINF:0,Aniplus
+#EXTGRP:Children
+https://dl.dropboxusercontent.com/s/49qk07up0482d9d/aniplus.m3u8?dl=0
+#EXTINF:0,Toonmax
+#EXTGRP:Children
+http://45.126.83.51/qwr9ew/s/s50/01.m3u8
+#EXTINF:0,Larva TV
+#EXTGRP:Children
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:0,Tom Jerry
+#EXTGRP:Children
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:0,Baby First
+#EXTGRP:Children
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0,Miao Mi
+#EXTGRP:Children
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:0,Duck TV
+#EXTGRP:Children
+https://dl.dropboxusercontent.com/s/fpq6q13r49lptql/ducktv.m3u8?dl=0
+#EXTINF:0,Boing TV
+#EXTGRP:Children
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:0,Horee
+#EXTGRP:Children
+https://dl.dropbox.com/s/63s89rm1bggmna6/hore.m3u8?dl=0
+#EXTINF:0,Dunia Anak
+#EXTGRP:Children
+https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
+#EXTINF:0,Boomerang
+#EXTGRP:Children
+https://dl.dropbox.com/s/1xa4i4uv5jlq00n/bome.m3u8?dl=0
+#EXTINF:0,Spacetoon
+#EXTGRP:Children
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+#EXTINF:0,3ABN Kids
+#EXTGRP:Children
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:0,GEM Kids
+#EXTGRP:Children
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:0,GEM Junior
+#EXTGRP:Children
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:0,Nickelodeon ID
+#EXTGRP:Children
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Children
+https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
+#EXTINF:0,Spacetoon Plus
+#EXTGRP:Children
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF:0,Maleo
+#EXTGRP:Music
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:0,POP Musik
+#EXTGRP:Music
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:0,CITRA DANGDUT
+#EXTGRP:Music
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
+#EXTINF:0,Karaoke
+#EXTGRP:Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
+#EXTINF:0,,Lapak Musik
+#EXTGRP:Music
+http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:0,9XM
+#EXTGRP:Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0,T Musik
+#EXTGRP:Music
+https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
+#EXTINF:0,EGG Network
+#EXTGRP:Entertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:0,Waku Waku Japan HD
+#EXTGRP:Entertainment
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
+#EXTINF:0,Dunia Lain
+#EXTGRP:Entertainment
+https://cdnbpp1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+#EXTINF:0,INSERT
+#EXTGRP:Lifestyle
+https://cdnbpp1.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
+#EXTINF:0,Hi!
+#EXTGRP:Lifestyle
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+#EXTINF:0,AFN
+#EXTGRP:Lifestyle
+https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
+#EXTINF:0,FOOD
+#EXTGRP:Lifestyle
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Lifestyle
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0,Usee Photo
+#EXTGRP:Lifestyle
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+#EXTINF:0,Food Network
+#EXTGRP:Lifestyle
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0,Home & Living
+#EXTGRP:Lifestyle
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:0,Ruang Terampil
+#EXTGRP:Lifestyle
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566805~exp=9007200824307796~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=5f8d7450569ad9000d00b8db64aebce94cf8c2278ae534a3332bed7ecf7c826a
+#EXTINF:0,TV5 Monde Asie
+#EXTGRP:Lifestyle
+https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
+#EXTINF:0,TV5 Monde Style
+#EXTGRP:Lifestyle
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0,TV5 Monde Pacifique
+#EXTGRP:Lifestyle
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:0,History
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/14/cgtndocumentary/chunklist_w1714383_b684100_sleng_99929.m3u8
+#EXTINF:0,NAT GEO
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1310751590_b1344100_sleng_520857.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8
+#EXTINF:0,NAT GEO PEOPLE
+#EXTGRP:Knowledge
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w403933494_b1344100_sleng_520855.m3u8
+#EXTINF:0,Crime Investigation
+#EXTGRP:Knowledge"
+https://cdnbpp1.useetv.com/joss/15/crimeinvestigation/chunklist_w553225437_b894100_sleng_526198.m3u8
+#EXTINF:0,TV1
+#EXTGRP:Malaysia
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+#EXTINF:0,TV2
+#EXTGRP:Malaysia
+http://58.26.3.55/PLTV/88888888/224/3221226229/02.m3u8
+#EXTINF:0,TV3
+#EXTGRP:Malaysia
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biPrAq1Y)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:0,OKEY
+#EXTGRP:Malaysia
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8
+#EXTINF:0,Berita RTM
+#EXTGRP:Malaysia
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:0,Astro Awani
+#EXTGRP:Malaysia
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:0,Astro Naura
+#EXTGRP:Malaysia
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:0,RTB Sukmaindera
+#EXTGRP:Malaysia
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:0,TVN
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
+#EXTINF:0,K Plus
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8
+#EXTINF:0,Sony One
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
+#EXTINF:0,Sony Gem
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
+#EXTINF:0,SBS Star
+#EXTGRP:Korea
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:0,SBS Plus
+#EXTGRP:Korea
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:0,SBS Korea
+#EXTGRP:Korea
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:0,KBS World
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
+#EXTINF:0,TVN Movies
+#EXTGRP:Korea
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+#EXTINF:0,Zee Bioskop
+#EXTGRP:India
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:0,Zee Cinema
+#EXTGRP:India
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:0,Zee Bolly
+#EXTGRP:India
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:0,Star Plus
+#EXTGRP:India
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0,CNN Indo
+#EXTGRP:News
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,CNBC Indo
+#EXTGRP:News
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:0,DW TV
+#EXTGRP:News
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+#EXTINF:0,CCTV 4
+#EXTGRP:News
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+#EXTINF:0,Telesur 
+#EXTGRP:News
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:News
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:News
+http://210.210.155.35/qwr9ew/s/s15/01.m3u8
+#EXTINF:0,SKY News
+#EXTGRP:News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:0,France 24
+#EXTGRP:News
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:0,CGTN News
+#EXTGRP:News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:News
+https://tv-trtworld.live.trt.com.tr/master_480.m3u8
+#EXTINF:0,Africa News
+#EXTGRP:News
+http://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
+#EXTINF:0,RT English
+#EXTGRP:News
+http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
+#EXTINF:0,ABC Australia
+#EXTGRP:News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0,Aljazeera English
+#EXTGRP:News
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+#EXTINF:0,Fox Sports News
+#EXTGRP:News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+#EXTINF:0,Australia Channel
+#EXTGRP:News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
+#EXTINF:0,TV 9 Nusantara
+#EXTGRP:TV RELIGI
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:0,INSAN TV
+#EXTGRP:TV RELIGI
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:0,Ahsan TV
+#EXTGRP:TV RELIGI
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:0,TAHFIDZ TV
+#EXTGRP:TV RELIGI
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:0,AL Bahjah
+#EXTGRP:TV RELIGI
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:0,MAKKAH
+#EXTGRP:TV RELIGI
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:0,MADINAH
+#EXTGRP:TV RELIGI
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:0,ADI TV
+#EXTGRP:TV RELIGI
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0,AL IMAN
+#EXTGRP:TV RELIGI
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:0,SALAM TV
+#EXTGRP:TV RELIGI
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+#EXTINF:0,RIFQAN TV
+#EXTGRP:TV RELIGI
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+#EXTINF:0,PULDAPIL
+#EXTGRP:TV RELIGI"
+http://178.128.121.192/hlsmobile/web.m3u8
