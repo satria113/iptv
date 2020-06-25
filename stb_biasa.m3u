@@ -1,0 +1,476 @@
+#EXTM3U
+
+######## TV Local #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",RUANG TERAMPIL
+https://cdnjt25.useetv.com/joss/15/useeinfo/chunklist_w547912906_b494100_sleng_547705.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",USEE PHOTO
+https://cdnjt25.useetv.com/joss/15/useephoto/chunklist_w681033097_b494100_sleng_502076.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",USEEPRIME
+https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w1488632696_b684100_sleng_166747.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",TRANSTV
+https://cdnjt25.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",ANTV
+https://cdnjt25.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",INDOSIAR
+https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",MNCTV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",SCTV
+https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",TVONE
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",GLOBALTV
+https://cdn-livetv5.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",TRANS7
+https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Padang TV
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Kompas TV
+https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w429293703_b494100_sleng_567208.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Net TV
+https://cdnkbl2.useetv.com/joss/15/net/chunklist_w1367416155_b894100_sleng_186241.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV  Local",Padang TV
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+
+######## Sport #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",beIN Sport 1
+https://cdnjt25.useetv.com/joss/15/bein1/chunklist_w1314001278_b894100_sleng_142765.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",beIN Sport 2
+https://cdnjt25.useetv.com/joss/15/bein2/chunklist_w1081156892_b494100_sleng_142799.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Fox Sport 1
+https://cdnjt25.useetv.com/joss/15/foxsport1/chunklist_w2080706001_b1344100_sleng_523815.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Fox Sport 2
+https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_w1298209804_b894100_sleng_523841.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Fox Sport 3
+https://cdnjt25.useetv.com/joss/15/foxsport3/chunklist_w1805878851_b894100_sleng_523859.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",UseeSports
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w116266584_b494100_sleng_145045.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",UseeSports2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1073987385_b1344100_sleng_526054.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Champion TV 1
+https://cdnjt25.useetv.com/joss/15/champion1/chunklist__w1948941261_b494100_sleng_45744.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Champion TV 2
+https://cdnjt25.useetv.com/joss/15/champion2/chunklist_w1205047494_b894100_sleng_74806.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",Golf
+https://cdnjt25.useetv.com/joss/15/golfplus/chunklist_w362556076_b684100_sleng_145103.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",NBA
+https://cdnjt25.useetv.com/joss/15/nba/chunklist_w1845832429_b894100_sleng_145119.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="TV Sport",egg network
+https://cdnjt25.useetv.com/joss/14/egg/chunklist_w1259359838_b684100_sleng_6615.m3u8
+
+######## News #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",Metro TV
+https://cdnbdsa1.useetv.com/joss/15/metrotv/chunklist_w571035449_b894100_sleng_145414.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",IDX Channel
+https://cdnjt25.useetv.com/joss/14/idx/chunklist_w305155907_b684100_sleng_8008.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",DW English
+https://cdnjt25.useetv.com/joss/14/dwtv/chunklist_w754563669_b684100_sleng_8961.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",France 24
+https://cdnjt25.useetv.com/joss/14/france24/chunklist_w177150626_b684100_sleng_8977.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",CNN Indonesia
+https://cdnjt25.useetv.com/joss/15/cnnindonesia/chunklist_w631101798_b894100_sleng_147516.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",CNN International
+https://cdnjt25.useetv.com/joss/15/cnninternational/chunklist_w1433382387_b684100_sleng_528514.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",Bloomberg
+https://cdnjt25.useetv.com/joss/14/bloomberg/chunklist_w279531489_b684100_sleng_9018.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="News",Euronews
+https://cdnjt25.useetv.com/joss/14/euronews/chunklist_w1419850302_b684100_sleng_9028.m3u8
+
+######## Movies #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",IMC
+https://cdnjt25.useetv.com/joss/14/imc/chunklist_w1819433698_b684100_sleng_9052.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Cinema World
+https://cdnjt25.useetv.com/joss/14/cinemaworld/chunklist_w1985991905_b684100_sleng_9072.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Flik
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_w805712818_b1344100_sleng_528597.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Galaxy
+https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w890950005_b494100_sleng_372369.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Thrill
+https://cdnjt25.useetv.com/joss/14/thrill/chunklist_w293823932_b684100_sleng_9107.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",ZBioskop
+https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_w1968551564_b684100_sleng_9118.m3u8
+
+######## Movies #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Three Stooges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Three.Stooges.2012.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",ROGUE WARFARE 2
+https://sarontna.club/f/videos/1578058141/bda3469f3a56c4fc9d6bfc83b08ad601/1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Night Clerk
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Night.Clerk.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Last Thing He Wanted
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Siccin 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",I Am Fear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/I.Am.Fear.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Sniper Corpse
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sniper.Corpse.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Guns Akimbo
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guns.Akimbo.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Richard Jewell
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/richard-jewell.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",A Hidden Life
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-hidden-life.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",A Wakefield Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-wakefield-project.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Mr Jones
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Jones.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Dare
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-dare.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Anastasia: Once Upon a Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Anastasia.Once.Upon.a.Time.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Warrant
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Warrant.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",By Light of Desert Night
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/by-light-of-desert-night.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Final Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Final.Kill.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Lurker
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Lurker.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Mistakes Were Made
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Timmy.Failure.Mistakes.Were.Made.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Agramon's Gate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Agramons.Gate.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Alien Outbreak
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alien.Outbreak.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Charlie's Angels
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Charlies.Angels.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Cruel Hearts
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Cruel.Hearts.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Next Level
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jumanji.The.Next.Level.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",VFW
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/VFW.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Eve
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eve.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Spy Intervention
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Spy.Intervention.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Isi & Ossi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Isi.and.Ossi.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Kindness of Strangers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kindness.of.Strangers.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Fantasy Island - HDCAM
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Fantasy.Island.2020.HDCAM..mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Sadistic Intentions
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sadistic.Intentions.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Island of Shadows
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Is.There.A.Killer.In.My.Family.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Friends Who Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friends.Who.Kill.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Sisters in Arms
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Soeurs.D.Armes.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Untitled Chris Watts Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chris.Watts.Confessions.Of.A.Killer.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Windermere Children
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Windermere.Children.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",21 Bridges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/21.Bridges.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",S.W.A.T
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/S.W.A.T.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Harriet
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Harriet.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Jojo Rabbit
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jojo.Rabbit.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",A Beautiful Day in the Neighborhood
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A-Beautiful-Day-in-the-Neighborhood-2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Dragonheart: Vengeance
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dragonheart.Vengeance.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Black Flowers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Atomic.Apocalypse.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",A Pilgrim's Progress
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heavenquest.A.Pilgrims.Progress.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Bait
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bait.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Dolittle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dolittle.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Coldest Game
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Coldest.Game.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Adventure Force 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Adventure.Force.5.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Playing with Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Playing.with.Fire.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Kindred Spirits
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kindred.Spirits.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The VelociPastor
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Velocipastor.2018.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Just Mercy
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Just.Mercy.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Little Women
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Little.Woman.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Stardust
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Stardust.2007.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Ford v Ferrari
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Last Full Measure
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Full.Measure.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Fight for Justice
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Trigonal.Fight.For.Justice.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Battle Star Wars
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Battle.Star.Wars.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Great Alaskan Race
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Great.Alaskan.Race.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",By Dawn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Dawn.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Jessica Forever
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jessica.Forever.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Coda
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Coda.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Sleeping with My Student
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sleeping.With.My.Student.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Ride Like a Girl
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ride.Like.A.Girl.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Motherless Brooklyn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Motherless.Brooklyn.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Blank
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Blank.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Midway
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Midway.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",24 Little Hours
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/24.Hours.In.London.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Dark Waters
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dark.Waters.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Epiphany
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Epiphany.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Terminator: Dark Fate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Disturbing The Peace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Disturbing.The.Peace.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",A Fall from Grace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A.Fall.from.Grace.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",1917
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/1917-2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Nation's Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nations.Fire.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Heritage
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heritage.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Wave
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Wave.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Nancy Drew and the Hidden Staircase
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nancy.Drew.and.the.Hidden.Staircase.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Inmate Zero - Patients of a Saint
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inmate.Zero.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Gemini Man
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gemini.Man.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Death of a Nation
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Rogue.Warfare.3.Death.of.a.Nation.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Ghost Stories
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ghost.Stories.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Toxicity
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Toxicity.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Mercenary
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Mercenary.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Live Twice, Love Once
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Live.Twice.Love.Once.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Countdown
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Countdown.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Mine 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mine.9.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Where We Disappear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Where.We.Disappear.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Abducted on Air - The Lead
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.2020.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Inherit the Viper
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inherit.The.Viper.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",The Courier
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Courier.2019.mp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Movies",Three Christs
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Three.Christs.2019.mp4/playlist.m3u8
+
+######## FOX #########
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX",Fox Movies
+http://cdn.miip.tv:8080/live/123/123/137.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox series
+http://cdn.miip.tv:8080/live/123/123/138.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Cinema
+http://cdn.miip.tv:8080/live/123/123/140.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox
+http://cdn.miip.tv:8080/live/123/123/141.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Family
+http://cdn.miip.tv:8080/live/123/123/142.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Clasic
+http://cdn.miip.tv:8080/live/123/123/143.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Adrenalin
+http://cdn.miip.tv:8080/live/123/123/144.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Sport1
+http://cdn.miip.tv:8080/live/123/123/145.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Sport2
+http://cdn.miip.tv:8080/live/123/123/146.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="FOX", Fox Sport3
+http://cdn.miip.tv:8080/live/123/123/147.ts
+
+####### HBO #######
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO West
+http://cdn.miip.tv:8080/live/123/123/3533.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Signature
+http://cdn.miip.tv:8080/live/123/123/3534.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO 2 Latino
+http://cdn.miip.tv:8080/live/123/123/3535.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Plus Este
+http://cdn.miip.tv:8080/live/123/123/3536.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO MX
+http://cdn.miip.tv:8080/live/123/123/133.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO 2 MX
+http://cdn.miip.tv:8080/live/123/123/134.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Family
+http://cdn.miip.tv:8080/live/123/123/135.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Plus
+http://cdn.miip.tv:8080/live/123/123/136.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Mudo Latino
+http://cdn.miip.tv:8080/live/123/123/488.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Xtreme
+http://cdn.miip.tv:8080/live/123/123/489.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="HBO", HBO Pop Latino
+http://cdn.miip.tv:8080/live/123/123/490.ts
+
+
+######## Music #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Music",I-Konser
+https://cdnjt25.useetv.com/joss/14/ikonser/chunklist_w849541229_b684100_sleng_10075.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Music",T Music
+https://cdnjt25.useetv.com/joss/14/tmusic/chunklist_w1766307268_b684100_sleng_10100.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Music",MTV Live
+https://cdnjt25.useetv.com/joss/15/mtvlive/chunklist_w957164578_b684100_sleng_529614.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Music",Citra Dangdut
+https://cdnjt25.useetv.com/joss/14/citradangdut/chunklist_w1467423579_b684100_sleng_10122.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Music",Prambors
+https://cdnjt25.useetv.com/joss/14/pramborstv/chunklist_w1794599905_b684100_sleng_10133.m3u8
+
+######## Kids #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Duck TV
+https://cdnjt25.useetv.com/joss/14/ducktv/chunklist_w2021919818_b684100_sleng_10312.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Horee
+https://cdnjt25.useetv.com/joss/14/horee/chunklist_w1305191032_b684100_sleng_10331.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Nick Junior
+https://edgejt6.useetv.com/joss/14/nickjr/chunklist_w751536054_b684100_sleng_10720.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Nickelodeon
+https://edgejt6.useetv.com/joss/14/nickelodeon/chunklist_w108098792_b684100_sleng_10730.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Da Vinci Learning
+https://edgejt6.useetv.com/joss/14/davinci/chunklist_w239716508_b684100_sleng_10887.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Dreamworks
+https://cdnkbl2.useetv.com/joss/15/dreamworks/chunklist_w889859185_b894100_sleng_149448.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Kids",Spacetoon Plus
+https://cdnkbl2.useetv.com/joss/14/spacetoonplus/chunklist_w386124900_b684100_sleng_10939.m3u8
+
+######## Knowledge #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Knowledge",Nat Geo
+https://cdnjt25.useetv.com/joss/15/natgeo/chunklist_w1465420621_b494100_sleng_536390.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Knowledge",Nat Geo People
+https://cdnjt25.useetv.com/joss/15/natgeopeople/chunklist_w147764089_b684100_sleng_536479.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Knowledge",Nat Geo Wild
+https://cdnjt25.useetv.com/joss/15/natgeowild/chunklist_w1534402753_b494100_sleng_536523.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Knowledge",Discovery Channel
+https://cdnjt25.useetv.com/joss/15/disco/chunklist_w1504404639_b894100_sleng_490921.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Knowledge",Crime Investigation
+https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_w114679151_b894100_sleng_536570.m3u8
+
+
+######## Lifestyle #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Lifestyle",M Shop
+https://cdnjt25.useetv.com/joss/14/mncshop/chunklist_w1018180460_b684100_sleng_19285.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Lifestyle",Eat Go
+https://cdnjt25.useetv.com/joss/14/eatgo/chunklist_w419938525_b684100_sleng_19305.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Lifestyle",Fashion One
+https://cdnjt25.useetv.com/joss/15/fashionone/chunklist_w1673254725_b1344100_sleng_538826.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Lifestyle",FashionTV
+https://cdnjt25.useetv.com/joss/15/fashiontv/chunklist_w1779488954_b1344100_sleng_538839.m3u8
+
+######## Entertainment #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Citra Drama
+https://cdnjt25.useetv.com/joss/14/cdrama/chunklist_w1070876692_b684100_sleng_19370.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Dunia Lain
+https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_w1049005186_b684100_sleng_19381.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Arirang
+https://cdnjt25.useetv.com/joss/14/arirang/chunklist_w1933042237_b684100_sleng_19395.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Animax
+https://cdnjt25.useetv.com/joss/14/animax/chunklist_w595140815_b684100_sleng_19403.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",AXN
+https://cdnjt25.useetv.com/joss/15/axn/chunklist_w93547055_b494100_sleng_538938.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",TVN
+https://cdnjt25.useetv.com/joss/15/tvn/chunklist_w255805851_b894100_sleng_538947.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",TVN Movies
+https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w1520599731_b684100_sleng_538963.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",KBS World
+https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_w845749518_b494100_sleng_157982.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Blue Ant
+https://cdnjt25.useetv.com/joss/14/blueant/chunklist_w246439742_b684100_sleng_19472.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",ABC Australia
+https://cdnjt25.useetv.com/joss/15/abcaustralia/chunklist_w1691045145_b494100_sleng_538998.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Chinese Drama
+https://cdnjt25.useetv.com/joss/14/chinesedrama/chunklist_w1920990434_b684100_sleng_614.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Lifetime
+https://cdnjt25.useetv.com/joss/14/lifetime/chunklist_w276677892_b684100_sleng_20295.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",History
+https://cdnjt25.useetv.com/joss/15/history/chunklist_w365692541_b894100_sleng_539840.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Kix
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_w640148924_b894100_sleng_539878.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Waku Waku Japan
+https://cdnjt25.useetv.com/joss/15/wakuwaku/chunklist_w1274210002_b684100_sleng_539896.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Warner
+https://cdnjt25.useetv.com/joss/15/warner/chunklist_w116306664_b894100_sleng_539921.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",ANIPlus
+https://cdnjt25.useetv.com/joss/14/aniplus/chunklist_w866431004_b684100_sleng_20418.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",CCTV4
+https://cdnjt25.useetv.com/joss/14/cctv4/chunklist_w615892871_b684100_sleng_20425.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",Kplus
+https://cdnjt25.useetv.com/joss/15/kplus/chunklist_w65111201_b894100_sleng_158958.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",nhk world Japan
+https://cdnjt25.useetv.com/joss/14/nhkworld/chunklist_w2075823146_b684100_sleng_20447.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",SGEM
+https://cdnjt25.useetv.com/joss/15/sgem/chunklist_w1680344086_b494100_sleng_494324.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",SONE
+https://cdnjt25.useetv.com/joss/15/sone/chunklist_w281028449_b894100_sleng_539976.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",TV5Monde
+https://cdnbal1.useetv.com/joss/14/tv5monde/chunklist_w467526726_b684100_sleng_20862.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Entertainment",El John TV
+https://cdnbal1.useetv.com/joss/14/eljohn/chunklist_w1632549077_b944100_sleng_12.m3u8
+
+######## Religi #########
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",MUI TV
+https://cdnbal1.useetv.com/joss/14/muitv/chunklist_w157785462_b684100_sleng_20912.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",TV9 NU
+https://cdnbal1.useetv.com/joss/14/tv9/chunklist_w892302266_b684100_sleng_20926.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",UChannel
+https://cdnbal1.useetv.com/joss/14/uchannel/chunklist_w1720756914_b684100_sleng_20938.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",AlQuran Kareem
+https://cdnbal1.useetv.com/joss/14/alquran/chunklist_w1917113149_b684100_sleng_209.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",Tawaf TV
+https://cdnbal1.useetv.com/joss/14/tawaftv/chunklist_w1734568360_b684100_sleng_2091.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",Khazanah
+https://cdnbal1.useetv.com/joss/14/khazanah/chunklist_w1311946992_b684100_sleng_20967.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",MQTV
+https://cdnbal1.useetv.com/joss/14/mqtv/chunklist_w1063139938_b684100_sleng_20979.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",Muhammadiyah TV
+https://cdnbal1.useetv.com/joss/14/muhammadiyahtv/chunklist_w1318291056_b684100_sleng_20995.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/1.jpg" group-title="Religi",Rodja TV
+https://cdnbal1.useetv.com/joss/14/rodjatv/chunklist_w593028153_b684100_sleng_21004.m3u8
