@@ -6,144 +6,157 @@ http://brhn.xyz/info.m3u8
 #EXTINF:-1 tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",SILAHKAN IZIN BELIAU !!!
 http://brhn.xyz/info.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist-iptvwow.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist-iptvwow.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
-http://brhn.xyz/stream/m3u/vidio-net-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-net-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
 http://brhn.xyz/stream/sc/antv.php
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
-http://brhn.xyz/stream/m3u/vidio-sctv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-sctv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
-http://brhn.xyz/stream/m3u/vidio-indosiar-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-indosiar-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
 http://brhn.xyz/stream/rcti.m3u
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
+#EXTINF:-1 tvg-id="" tvg-name="GlobalTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",Global TV
 http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC TV
 http://brhn.xyz/stream/mnctv.m3u
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",iNews
 http://brhn.xyz/stream/inews.m3u
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
+#EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TVONE
 http://brhn.xyz/stream/sc/tvone.php
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
-http://brhn.xyz/stream/m3u/kompastv-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
-http://brhn.xyz/stream/m3u/rtv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/kompastv-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",RTV
+http://brhn.xyz/stream/m3u/rtv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
-http://brhn.xyz/stream/m3u/jtv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/jtv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Nasional",O Channel
-http://brhn.xyz/stream/m3u/vidio-ochanel-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-ochanel-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Nasional",Jak TV
-http://brhn.xyz/stream/m3u/jaktv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/jaktv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
-http://brhn.xyz/stream/m3u/mytv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/mytv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI
-http://brhn.xyz/stream/m3u/tvri-iptvwow.m3u
+http://brhn.xyz/stream/m3u/tvri-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Nasional",ANTARA
-http://brhn.xyz/stream/m3u/antara-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
-http://brhn.xyz/stream/m3u/beritasatu-iptvwow.m3u
+http://brhn.xyz/stream/m3u/antara-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
+http://brhn.xyz/stream/m3u/beritasatu-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="TV Nasional",DAAI TV
-http://brhn.xyz/stream/m3u/daaitv-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
+http://brhn.xyz/stream/m3u/daaitv-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Nasional",Bali TV
-http://brhn.xyz/stream/m3u/balitv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/balitv-4july2020.m3u
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Nasional",JITV
-http://brhn.xyz/stream/m3u/jitv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/jitv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Nasional",RRI NET
-http://brhn.xyz/stream/m3u/rrinet-iptvwow.m3u
+http://brhn.xyz/stream/m3u/rrinet-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI SD
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBAL TV SD
-https://brhn.xyz/stream/m3u/vidio-global-iptvwow.m3u
+https://brhn.xyz/stream/m3u/vidio-global-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
-http://brhn.xyz/stream/m3u/bein1-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",BeIN Sport 2 ID
-http://brhn.xyz/stream/m3u/bein2-iptvwow.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beINSports1HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",beIN Sport 1 HD
+http://brhn.xyz/stream/m3u/bein1-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beINSports2HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",beIN Sport 2 HD
+http://brhn.xyz/stream/m3u/bein2-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Olahraga",BeIN Sports Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Olahraga",Fox Sports 1
-http://brhn.xyz/stream/m3u/foxsport1-iptvwow.m3u
+http://brhn.xyz/stream/m3u/foxsport1-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="Olahraga",Fox Sports 2
-http://brhn.xyz/stream/m3u/foxsport2-iptvwow.m3u
+http://brhn.xyz/stream/m3u/foxsport2-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="Olahraga",Fox Sports 3
-http://brhn.xyz/stream/m3u/foxsport3-iptvwow.m3u
+http://brhn.xyz/stream/m3u/foxsport3-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png" group-title="Olahraga",Champion TV1
-http://brhn.xyz/stream/m3u/champion1-iptvwow.m3u
+http://brhn.xyz/stream/m3u/champion1-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="Olahraga",Champion TV2
-http://brhn.xyz/stream/m3u/champion2-iptvwow.m3u
+http://brhn.xyz/stream/m3u/champion2-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_03.jpg" group-title="Olahraga",Usee Sports
-http://brhn.xyz/stream/m3u/useesport-iptvwow.m3u
+http://brhn.xyz/stream/m3u/useesport-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/UseeSport-2-HD.png" group-title="Olahraga",Usee Sports 2
-http://brhn.xyz/stream/m3u/useesports2-iptvwow.m3u
+http://brhn.xyz/stream/m3u/useesports2-4july2020.m3u
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Olahraga",NBA
-http://brhn.xyz/stream/m3u/nba-iptvwow.m3u
+http://brhn.xyz/stream/m3u/nba-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg" group-title="Olahraga",Fight Sports
-http://cdnak19.cast4u.info/channels/4/10804-iptvwow.m3u8
+http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u8
 #EXTINF:-1 tvg-logo="https://www.mint.web.id/images/channel/1562105434.png" group-title="Olahraga",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index-iptvwow.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index-4july2020.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Olahraga",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://www.loganmcgillracing.com.au/assets/images/logan/link/9.png" group-title="Olahraga",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-TSZw349qXuQ/VlcgOJpQvWI/AAAAAAAAAKU/Rk_s2CdjheU/s1600/pptv-logo.png" group-title="Olahraga",PPTV HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TSZw349qXuQ/VlcgOJpQvWI/AAAAAAAAAKU/Rk_s2CdjheU/s1600/pptv-logo.png" group-title="Olahraga",PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="Olahraga",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="Olahraga",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png" group-title="Olahraga",Real Madrid TV
+#EXTINF:-1  tvg-logo="https://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png" group-title="Olahraga",Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/FightBox_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20171210175839" group-title="Olahraga",FightBox
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/FightBox_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20171210175839" group-title="Olahraga",FightBox
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
-http://cdnak19.cast4u.info/channels/4/10804-iptvwow.m3u?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
-http://brhn.xyz/stream/m3u/golf-iptvwow.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
-http://brhn.xyz/stream/feed/1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
-http://brhn.xyz/stream/feed/2.php
+http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
+#EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 1
+http://brhn.xyz/stream/sc/la1.php
+#EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 2
+http://brhn.xyz/stream/sc/la2.php
+#EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 3
+http://brhn.xyz/stream/sc/la3.php
+#EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 4
+http://brhn.xyz/stream/sc/la4.php
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png" group-title="Olahraga",FEED SERIE A 1
+http://brhn.xyz/stream/sc/serie1.php
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png" group-title="Olahraga",FEED BUNDESLIGA 1
+http://brhn.xyz/stream/sc/bundes1.php
+#EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 1
+http://brhn.xyz/stream/sc/f1.php
+#EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 2
+http://brhn.xyz/stream/sc/f2.php
+
+
+
 
 #EXTINF:1 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
-https://brhn.xyz/stream/m3u/hbo-iptvwow.m3u
+https://brhn.xyz/stream/m3u/hbo-4july2020.m3u
 #EXTINF:1 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
-https://brhn.xyz/stream/m3u/hbo-sd-iptvwow.m3u
+https://brhn.xyz/stream/m3u/hbo-sd-4july2020.m3u
 #EXTINF:1 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
-https://brhn.xyz/stream/m3u/hits-iptvwow.m3u
+https://brhn.xyz/stream/m3u/hits-4july2020.m3u
 #EXTINF:1 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits SD
-https://brhn.xyz/stream/m3u/hits-sd-iptvwow.m3u
+https://brhn.xyz/stream/m3u/hits-sd-4july2020.m3u
 #EXTINF:1 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
-https://brhn.xyz/stream/m3u/fam-iptvwow.m3u
+https://brhn.xyz/stream/m3u/fam-4july2020.m3u
 #EXTINF:1 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family SD
-https://brhn.xyz/stream/m3u/fam-sd-iptvwow.m3u
+https://brhn.xyz/stream/m3u/fam-sd-4july2020.m3u
 #EXTINF:1 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
-https://brhn.xyz/stream/m3u/sig-iptvwow.m3u
+https://brhn.xyz/stream/m3u/sig-4july2020.m3u
 #EXTINF:1 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature SD
-https://brhn.xyz/stream/m3u/sig-sd-iptvwow.m3u
+https://brhn.xyz/stream/m3u/sig-sd-4july2020.m3u
 #EXTINF:1 tvg-name="HBO.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
-https://brhn.xyz/stream/m3u/red-iptvwow.m3u
+https://brhn.xyz/stream/m3u/red-4july2020.m3u
 #EXTINF:1 tvg-name="HBO.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO SD
-https://brhn.xyz/stream/m3u/red-sd-iptvwow.m3u
+https://brhn.xyz/stream/m3u/red-sd-4july2020.m3u
 #EXTINF:1 tvg-name="Cinemax.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
-https://brhn.xyz/stream/m3u/max-iptvwow.m3u
+https://brhn.xyz/stream/m3u/max-4july2020.m3u
 #EXTINF:1 tvg-name="Cinemax.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
-https://brhn.xyz/stream/m3u/max-sd-iptvwow.m3u
-#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",Warner TV ID HD
-http://brhn.xyz/stream/m3u/warner-iptvwow.m3u
+https://brhn.xyz/stream/m3u/max-sd-4july2020.m3u
+#EXTINF:1 tvg-id="" tvg-name="WarnerTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",WarnerTV
+http://brhn.xyz/stream/m3u/warner-4july2020.m3u
 #EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
 http://brhn.xyz/stream/sc/fox.php
 #EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Film",Fox Movies
@@ -155,13 +168,13 @@ http://brhn.xyz/stream/sc/foxfam.php
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Film",Fox Movies Premium
 http://brhn.xyz/stream/sc/foxprem.php
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Film",FLIK
-http://brhn.xyz/stream/m3u/flik-iptvwow.m3u
+http://brhn.xyz/stream/m3u/flik-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="Film",Thrill
-http://brhn.xyz/stream/m3u/thrill-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="CelestialMovies.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Film",Celestial Movies
-http://brhn.xyz/stream/m3u/celestialmovie-iptvwow.m3u
+http://brhn.xyz/stream/m3u/thrill-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CelestialMovies.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Film",Celestial Movies
+http://brhn.xyz/stream/m3u/celestialmovie-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="Film",Galaxy
-http://brhn.xyz/stream/m3u/galaxy-iptvwow.m3u
+http://brhn.xyz/stream/m3u/galaxy-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Film",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="Film",Movies Now
@@ -171,46 +184,46 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/422751_preview.png" group-title="Film",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="Film",IMC
-http://brhn.xyz/stream/m3u/imc-iptvwow.m3u
+http://brhn.xyz/stream/m3u/imc-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Film",Cinema World
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4Tw2g9/Sinema-Indonesia.png" group-title="Film",Sinema Indonesia
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
-#EXTINF:0 tvg-name="BioskopIndonesia.id" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Film",Bioskop Indonesia
-http://brhn.xyz/stream/m3u/bioskopindonesia-iptvwow.m3u
+#EXTINF:-1 tvg-name="BioskopIndonesia.id" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/BioskopIndonesia.png" group-title="Film",Bioskop Indonesia
+http://brhn.xyz/stream/m3u/bioskopindonesia-4july2020.m3u
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Film",Citra Drama
-http://brhn.xyz/stream/m3u/cdrama-iptvwow.m3u
+http://brhn.xyz/stream/m3u/cdrama-4july2020.m3u
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="Film",Chinese Drama
-http://brhn.xyz/stream/m3u/chinesedrama-iptvwow.m3u
+http://brhn.xyz/stream/m3u/chinesedrama-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Film",Blue Ant Entertainment
-http://brhn.xyz/stream/m3u/blueant-iptvwow.m3u
+http://brhn.xyz/stream/m3u/blueant-4july2020.m3u
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="cartoonnetwork.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
-http://brhn.xyz/stream/m3u/cartoonnetwork-iptvwow.m3u
+#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
+http://brhn.xyz/stream/m3u/cartoonnetwork-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Anak",Dreamwork
-http://brhn.xyz/stream/m3u/dreamworks-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
-http://brhn.xyz/stream/m3u/nickelodeon-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
-http://brhn.xyz/stream/m3u/nickjr-iptvwow.m3u
+http://brhn.xyz/stream/m3u/dreamworks-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
+http://brhn.xyz/stream/m3u/nickelodeon-4july2020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NickelodeonJr" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
+http://brhn.xyz/stream/m3u/nickjr-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://i2.wp.com/24jam.live/wp-content/uploads/2019/09/disney-junior.png" group-title="Anak",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Anak",Animax
-http://brhn.xyz/stream/m3u/animax-iptvwow.m3u
+http://brhn.xyz/stream/m3u/animax-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Anak",Aniplus
-http://brhn.xyz/stream/m3u/aniplus-iptvwow.m3u
+http://brhn.xyz/stream/m3u/aniplus-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Anak",Duck TV
-http://brhn.xyz/stream/m3u/ducktv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/ducktv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Horee
-http://brhn.xyz/stream/m3u/horee-iptvwow.m3u
+http://brhn.xyz/stream/m3u/horee-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Anak",Boomerang
-http://brhn.xyz/stream/m3u/boomerang-iptvwow.m3u
+http://brhn.xyz/stream/m3u/boomerang-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Anak",Dunia Anak
-http://brhn.xyz/stream/m3u/duniaanak-iptvwow.m3u
+http://brhn.xyz/stream/m3u/duniaanak-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="Anak",Davinci Learning
-http://brhn.xyz/stream/m3u/davinci-iptvwow.m3u
+http://brhn.xyz/stream/m3u/davinci-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Anak",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/53/f1/6b53f152-19f7-0f16-b013-3f68739b83ed/source/512x512bb.jpg" group-title="Anak",Larva TV
@@ -218,11 +231,11 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20180614/gbo/kisspng-tom-cat-jerry-mouse-tom-and-jerry-tom-jerry-5b21e914857346.7487803615289490125466.jpg" group-title="Anak",Tom Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Anak",Baby First
-http://brhn.xyz/stream/m3u/babyfirst-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png" group-title="Anak",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="Anak",Boing TV
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+http://brhn.xyz/stream/m3u/babyfirst-4july2020.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Anak",Zoo Moo
+https://brhn.xyz/stream/m3u/vidio-zoomoo-4july2020.m3u
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Hip Hip Horee
+https://brhn.xyz/stream/m3u/vidio-hiphip-horee-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="Anak",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg" group-title="Anak",3ABN Kids
@@ -237,142 +250,135 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Pengetahuan",History HD
-http://brhn.xyz/stream/m3u/history-iptvwow.m3u
+http://brhn.xyz/stream/m3u/history-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Pengetahuan",Discovery Channel
-http://brhn.xyz/stream/m3u/disco-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Pengetahuan",CGTN Documentary
-http://brhn.xyz/stream/m3u/cgtndocumentary-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pengetahuan",National Geographic Channel HD
-http://brhn.xyz/stream/m3u/natgeo-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pengetahuan",National Geographic Wild HD
-http://brhn.xyz/stream/m3u/natgeowild-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Pengetahuan",National Geographic People
-http://brhn.xyz/stream/m3u/natgeopeople-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="Pengetahuan",Crime Investigation
-http://brhn.xyz/stream/m3u/crimeinvestigation-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
-http://brhn.xyz/stream/m3u/lingua-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Pengetahuan",BBC Earth
-http://brhn.xyz/stream/visionplus/bbcearth-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="Pengetahuan",Animal Planet
-http://brhn.xyz/stream/visionplus/animalplanet-iptvwow.m3u
+http://brhn.xyz/stream/m3u/disco-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.tivusat.tv/pages/_common/images/landing/loghi/canale_CGTN_docu.png" group-title="Pengetahuan",CGTN Documentary
+http://brhn.xyz/stream/m3u/cgtndocumentary-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Pengetahuan",National Geographic Channel HD
+http://brhn.xyz/stream/m3u/natgeo-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Pengetahuan",National Geographic Wild HD
+http://brhn.xyz/stream/m3u/natgeowild-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Pengetahuan",National Geographic People
+http://brhn.xyz/stream/m3u/natgeopeople-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="Pengetahuan",Crime Investigation
+http://brhn.xyz/stream/m3u/crimeinvestigation-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
+http://brhn.xyz/stream/m3u/lingua-4july2020.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
-http://brhn.xyz/stream/m3u/mtvlive-iptvwow.m3u
+http://brhn.xyz/stream/m3u/mtvlive-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Musik",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Musik",POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Musik",Citra Dangdut
-http://brhn.xyz/stream/m3u/citradangdut-iptvwow.m3u
+#EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Musik",Citra Dangdut
+http://brhn.xyz/stream/m3u/citradangdut-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Musik",Prambors
-http://brhn.xyz/stream/m3u/pramborstv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/pramborstv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Musik",Lapak Musik
-https://anevia114.streamnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Musik",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
 http://brhn.xyz/stream/sc/ekonser.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Musik",Channel V
-http://brhn.xyz/stream/visionplus/vchannel.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Musik",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Musik",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="WakuWakuJapan.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Hiburan dan Permainan",Waku Waku Japan HD
-http://brhn.xyz/stream/m3u/wakuwaku-iptvwow.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WakuWakuJapan.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="Hiburan dan Permainan",Waku Waku Japan HD
+http://brhn.xyz/stream/m3u/wakuwaku-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557996699_logo-techstorm.png" group-title="Hiburan dan Permainan",Tech Storm
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/DuniaLain.png" group-title="Hiburan dan Permainan",Dunia Lain
-http://brhn.xyz/stream/m3u/dunialain-iptvwow.m3u
+http://brhn.xyz/stream/m3u/dunialain-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/dunia-games.jpg" group-title="Hiburan dan Permainan",Dunia Games
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Hiburan dan Permainan",Blue Ant Extreme
-http://brhn.xyz/stream/m3u/blueantextreme-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Hiburan dan Permainan",UseePrime
-http://brhn.xyz/stream/m3u/useeprime-iptvwow.m3u
+http://brhn.xyz/stream/m3u/blueantextreme-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Hiburan dan Permainan",UseePrime
+http://brhn.xyz/stream/m3u/useeprime-4july2020.m3u
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
-http://brhn.xyz/stream/m3u/vidio-lovenature-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-lovenature-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
-http://brhn.xyz/stream/m3u/vidio-smithsonian-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-smithsonian-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Midnight Secrets
-http://brhn.xyz/stream/m3u/vidio-fashionplus-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-fashionplus-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV L'Original
-http://brhn.xyz/stream/m3u/vidio-fashion-original-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-fashion-original-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Global
-http://brhn.xyz/stream/m3u/vidio-fashion-tv-global-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-fashion-tv-global-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
 http://brhn.xyz/stream/sc/tvn.php
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
 http://brhn.xyz/stream/sc/tvnm.php
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
-http://brhn.xyz/stream/m3u/vidio-citra-bioskop-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-citra-bioskop-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Extra Chanel",Citra Entertainment
-http://brhn.xyz/stream/m3u/vidio-citra-entertainment-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-citra-entertainment-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Extra Chanel",Citra Muslim
-http://brhn.xyz/stream/m3u/vidio-citra-muslim-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-citra-muslim-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="Extra Chanel",Citra Dangdut
-http://brhn.xyz/stream/m3u/vidio-citra-dangdut-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-citra-dangdut-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kRONfwdTkKFzaWYeaflzrhtWYCE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Extra Chanel",Champion TV1
-http://brhn.xyz/stream/m3u/vidio-championtv1-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-championtv1-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SsouRMNZK4hD43qxT7pCSV0asdg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Extra Chanel",Champion TV2
-http://brhn.xyz/stream/m3u/vidio-championtv2-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-championtv2-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkQxfsks0bJ3XeNB4nuacevaJTQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="Extra Chanel",Champion TV3
-http://brhn.xyz/stream/m3u/vidio-championtv3-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-championtv3-4july2020.m3u
 
 
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Gaya Hidup",Insert
-http://brhn.xyz/stream/m3u/insert-iptvwow.m3u
+http://brhn.xyz/stream/m3u/insert-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Gaya Hidup",Eat&Go
-http://brhn.xyz/stream/m3u/eatgo-iptvwow.m3u
+http://brhn.xyz/stream/m3u/eatgo-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s1600/20170609004600-735840.jpg" group-title="Gaya Hidup",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Gaya Hidup",AFN
-http://brhn.xyz/stream/m3u/afc-iptvwow.m3u
+http://brhn.xyz/stream/m3u/afc-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/501908385294323712/uxIEi9C1_400x400.jpeg" group-title="Gaya Hidup",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gaya Hidup",FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Gaya Hidup",Fashion TV
-http://brhn.xyz/stream/m3u/fashiontv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/fashiontv-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_fashionone_small1.png" group-title="Gaya Hidup",Usee Photo
-http://brhn.xyz/stream/m3u/fashionone-iptvwow.m3u
+http://brhn.xyz/stream/m3u/fashionone-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="Gaya Hidup",Usee Photo
-http://brhn.xyz/stream/m3u/useephoto-iptvwow.m3u
+http://brhn.xyz/stream/m3u/useephoto-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gaya Hidup",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/HOME-LIVING.jpg" group-title="Gaya Hidup",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Gaya Hidup",Ruang Terampil
-http://brhn.xyz/stream/m3u/useeinfo-iptvwow.m3u
+http://brhn.xyz/stream/m3u/useeinfo-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-_400x400.png" group-title="Gaya Hidup",BBC Lifestyle
-http://brhn.xyz/stream/m3u/bbclifestyle-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/335-3354416_fashiononelogo-fashion-one-tv-channel-logo-hd-png.png" group-title="Gaya Hidup",Fashion One
-http://brhn.xyz/stream/m3u/fashionone-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gaya Hidup",HGTV
-http://brhn.xyz/stream/m3u/hgtv-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Gaya Hidup",LIFE TIME
-http://brhn.xyz/stream/m3u/lifetime-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/617/925/png-transparent-tlc-television-show-logo-business-animal-family-television-text-trademark.png" group-title="Gaya Hidup",TLC
-http://brhn.xyz/stream/m3u/tlc-iptvwow.m3u
+
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Berita dan Informasi",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="Berita dan Informasi",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-http://brhn.xyz/stream/m3u/vidio-abc-australia-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-abc-australia-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/deutsche_welle.png" group-title="Berita dan Informasi",DW TV Asia
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="Berita dan Informasi",CN: CCTV 4
@@ -424,13 +430,13 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/TvN_Old.jpg" group-title="Korea",TVN
-http://brhn.xyz/stream/m3u/tvn-iptvwow.m3u
+http://brhn.xyz/stream/m3u/tvn-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Korea",K Plus
-http://brhn.xyz/stream/m3u/kplus-iptvwow.m3u
+http://brhn.xyz/stream/m3u/kplus-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kMloFMG0Mt4/Waquz5GL5xI/AAAAAAAAAGQ/TY1bdc6tx-IzDlcf_5gaSPwoHlIt9p4jgCLcBGAs/w1200-h630-p-k-no-nu/S-One-HD-Ch393.png" group-title="Korea",Sony One
-http://brhn.xyz/stream/m3u/sone-iptvwow.m3u
+http://brhn.xyz/stream/m3u/sone-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="Korea",Sony Gem
-http://brhn.xyz/stream/m3u/sgem-iptvwow.m3u
+http://brhn.xyz/stream/m3u/sgem-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
@@ -438,12 +444,12 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korea",SBS Korea
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6Gh76BXazn.png" group-title="Korea",KBS World
-http://brhn.xyz/stream/m3u/kbsworld-iptvwow.m3u
+http://brhn.xyz/stream/m3u/kbsworld-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="Korea",TVN Movies
-http://brhn.xyz/stream/m3u/tvnmovies-iptvwow.m3u
+http://brhn.xyz/stream/m3u/tvnmovies-4july2020.m3u
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="India",Zee Bioskop
-http://brhn.xyz/stream/m3u/zbioskop-iptvwow.m3u
+http://brhn.xyz/stream/m3u/zbioskop-4july2020.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="India",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="India",Zee Bolly
@@ -452,29 +458,29 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
-http://brhn.xyz/stream/m3u/tv9-iptvwow.m3u
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist-iptvwow.m3u8
-#EXTINF:-1 tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
+#EXTINF:-1  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
+http://brhn.xyz/stream/m3u/tv9-4july2020.m3u
+#EXTINF:-1  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist-4july2020.m3u8
+#EXTINF:-1  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kQGGDnfL8CY/Vafnd6qGqiI/AAAAAAAAFV8/3Ujm7qCd9ds/s200/Tahfidz%2BTV%2Bstreaming%2BOnline.png" group-title="TV RELIGI",TAHFIDZ TV
+#EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-kQGGDnfL8CY/Vafnd6qGqiI/AAAAAAAAFV8/3Ujm7qCd9ds/s200/Tahfidz%2BTV%2Bstreaming%2BOnline.png" group-title="TV RELIGI",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buyayahya.org/wp-content/uploads/2018/01/AL-BAHJAH-TV-OK-3-1.png" group-title="TV RELIGI",AL Bahjah
+#EXTINF:-1  tvg-logo="https://buyayahya.org/wp-content/uploads/2018/01/AL-BAHJAH-TV-OK-3-1.png" group-title="TV RELIGI",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="TV RELIGI",MAKKAH
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="TV RELIGI",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/22ac9468582045.Y3JvcCwyMzAxLDE4MDAsMTQ4LDA.jpg" group-title="TV RELIGI",MADINAH
+#EXTINF:-1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/22ac9468582045.Y3JvcCwyMzAxLDE4MDAsMTQ4LDA.jpg" group-title="TV RELIGI",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",ADI TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv.png" group-title="TV RELIGI",AL IMAN
+#EXTINF:-1  tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv.png" group-title="TV RELIGI",AL IMAN
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="TV RELIGI",SALAM TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="TV RELIGI",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:0 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-rifqan-tv.png" group-title="TV RELIGI",RIFQAN TV
+#EXTINF:-1 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-rifqan-tv.png" group-title="TV RELIGI",RIFQAN TV
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
+#EXTINF:-1  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
-#EXTINF:-1 tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
+#EXTINF:-1  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
