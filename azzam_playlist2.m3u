@@ -131,35 +131,35 @@ http://brhn.xyz/stream/sc/f2.php
 
 
 
-#EXTINF:1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/stream/m3u/hbo-4july2020.m3u
-#EXTINF:1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
 https://brhn.xyz/stream/m3u/hbo-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
 https://brhn.xyz/stream/m3u/hits-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits SD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits SD
 https://brhn.xyz/stream/m3u/hits-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
 https://brhn.xyz/stream/m3u/fam-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family SD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family SD
 https://brhn.xyz/stream/m3u/fam-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
 https://brhn.xyz/stream/m3u/sig-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature SD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature SD
 https://brhn.xyz/stream/m3u/sig-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
 https://brhn.xyz/stream/m3u/red-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO SD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO SD
 https://brhn.xyz/stream/m3u/red-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
 https://brhn.xyz/stream/m3u/max-4july2020.m3u
-#EXTINF:1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
 https://brhn.xyz/stream/m3u/max-sd-4july2020.m3u
-#EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",WarnerTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",WarnerTV
 http://brhn.xyz/stream/m3u/warner-4july2020.m3u
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
 http://brhn.xyz/stream/sc/fox.php
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Film",Fox Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Film",Fox Movies
 http://brhn.xyz/stream/sc/foxmov.php
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/2/194/fox-action-movies-fox-movies-fox-international-channels-television-channel-others-png-clip-art.png" group-title="Film",Fox Action Movies
 http://brhn.xyz/stream/sc/foxact.php
