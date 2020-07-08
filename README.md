@@ -1,4 +1,6 @@
-Playlist for PC and Android
+---------------------------------
+|  Playlist for PC and Android  |
+---------------------------------
 
 
 
