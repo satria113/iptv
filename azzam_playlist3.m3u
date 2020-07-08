@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Bear Rom", BALI TV
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkDwmWJ-OZU7iVK5t_lUoH2LBLYh843mqgJg&usqp=CAU" group-title="Bear Rom", LOMBOK TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", .IdKU
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/portrait_xhdpi_mus_1.jpg" group-title="Bear Rom",The Indonesia Channel
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Bear Rom", JTV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Bear Rom", METRO TV
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Bear Rom", Kompas TV
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Bear Rom", MyTV
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Bear Rom", NET.
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6a/Logo-PK-tv.png" group-title="Bear Rom", PKTV
+http://wowza60.indostreamserver.com:1935/pktv/live/chunklist_w1915614088.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="Bear Rom", BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Bear Rom", SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Bear Rom", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w835448326_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Bear Rom", TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w602176706_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Bear Rom", TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="Bear Rom", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2070802871_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.detik.com/community/media/detikconnectdevel/2018/1/16/a65dbe69b33380dde6e73314f3d72c2c.png" group-title="Bear Rom", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2020950231_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="Bear Rom", TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="Bear Rom", BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwnOMan_-66_xxjTrtKg1_2mhhx8RRJxPBRaCnkhmSL-d6TTkX" tvg-country="ID" group-title="Bear Rom", BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/85/02/dc850292-136d-f282-93f2-9677b9f35337/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.png" tvg-country="ID" group-title="Bear Rom", BeritaSatu English
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/413521614152560640/z7rWR7wE_400x400.jpeg" group-title="Bear Rom", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/320px-CTV_Banten.png" group-title="Bear Rom", TV Cahaya Banten
+http://103.23.201.170:1935/live/livestream/chunklist_w535338637.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mugosmedia.com/v2/images/mugos-logo.png?t=o&v=800" group-title="Bear Rom", Mugos
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="Bear Rom", USEE PHOTO
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="Bear Rom", USEE PRIME
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="Bear Rom", RUANG TRAMPIL
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://ggwp.id/media/wp-content/uploads/2019/02/logo-DG-esports.jpg" group-title="Bear Rom", Dunia Games Channel
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/search_xhdpi_mcc.jpg" group-title="Bear Rom", MCC
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(26cc3a6a-8726-40cd-a02f-ac6db7a85fe5)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztA43rdUI5A/hqdefault_live.jpg" group-title="Bear Rom", MAXSTREAM Digione
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(83ea818f-6dcb-4d0e-bd5f-9873105639c0)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/search_xhdpi_hooq_701.jpg" group-title="Bear Rom", MAX2U
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(50332677-b1c4-47d4-ab87-70956e2d1d1b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s320/20170609004600-735840.jpg" group-title="Bear Rom", hi INDO
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV PARIS
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVPARIS.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV MIDNITE
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVMIDNITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV TOP MODEL
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVTOPMODEL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/31/f3/1231f374e965e9a97d73015bf2636a7b.jpg" group-title="Bear Rom", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png" group-title="Bear Rom", Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Bear Rom", NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Bear Rom", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Bear Rom", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Bear Rom", Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", TV Ikim
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Astro Go Shop 2
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Astro Go Shop 新奇贩卖
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" group-title="Bear Rom", MTATV
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/795200878332366848/G5SwjtuK_400x400.jpg" group-title="Bear Rom", Rodja TV
+https://tv.rodja.live/live/720p/chunklist_w1567961867.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv9.co.id/images/logo.png" group-title="Bear Rom", TV9
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w483149442.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Bear Rom", MAKKAH LIVE
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Bear Rom", MADINAH LIVE
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1123798729465765888/SDkyHq5H_400x400.png" group-title="Bear Rom", TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?" group-title="Bear Rom", PRAMBORS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/394-3940518_the-karaoke-channel-website-feedback-karaoke-channel-logo.png" group-title="Bear Rom", Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/search_xhdpi_mus_0.jpg" group-title="Bear Rom", MAXSTREAM MUSIC
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", TRACE URBAN
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRACEURBAN.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", 100 AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w858534003.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bear Rom", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Bear Rom", RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Bear Rom", GTV
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Bear Rom", MNCTV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Bear Rom", iNews
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+
+##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l799RKPlMRrP6F1gtnDKu-QiYPURx9SddA22Dw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", TATV SOLO
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/TATV.m3u8
+
+##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l787JpZMmdzJFW_hQId5ZHZZ7_DKVV6gLJbggw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", JEMBER 1 TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/JEMBER1.m3u8
+
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/722811236103036928/u_S2PdCr_400x400.jpg" group-title="Bear Rom", BMS TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/BMS.m3u8
+
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780236541020901376/1NJBdqWw_400x400.jpg" group-title="Bear Rom", AREMA TV
+##https://raw.githubusercontent.com/b4byhuey/chunklist/master/AREMA.m3u8
