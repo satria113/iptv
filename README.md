@@ -20,7 +20,7 @@ Televizo : http://gg.gg/televizo
 
 
 
-Playlist short url (paste in your player)
+Short url playlist (paste in your player)
 -----------------------------------------
 http://gg.gg/azzam_playlist
 
