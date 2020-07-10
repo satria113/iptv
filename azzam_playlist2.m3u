@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",PLAYLIST INI MILIK OM BURHANSYAM, SILAHKAN IZIN BELIAU !!!
+#EXTINF:-1 tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",PLAYLIST INI MILIK OM BURHANSYAM
 http://brhn.xyz/info.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
