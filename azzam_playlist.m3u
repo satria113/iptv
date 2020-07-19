@@ -34,13 +34,13 @@ http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",RTV
-https://cdngb196.useetv.com/joss/18/rtv/chunklist_w957771505_b684100_sleng.m3u8?enc=KF17Kiq5fKQg0zON7xnQVw&id=YTI0M2ExMGM5YTU2MzU3NmNkZjA2MTNjMDYzMGQ5N2M=&exp=1594880078
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",METRO TV
-https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSy0M5-hpfj4epMUmI9HvGQk)/dm/3/x75p70w/d/live-3.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",KOMPAS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1594882628~acl=/hls-p/ingest_874_*/*~hmac=cd51b2d992f70050c9893b843ab98f3a7d36f24a78bc86acc97b1a50927c75b2/hls-p/ingest_874_720p/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",TVRI
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
