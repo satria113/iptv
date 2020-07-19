@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",MNC
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
@@ -19,7 +19,7 @@ http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tk
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",GTV
-https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",TRANS 7
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
@@ -31,16 +31,16 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",INEWS
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",RTV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
+https://cdngb196.useetv.com/joss/18/rtv/chunklist_w957771505_b684100_sleng.m3u8?enc=KF17Kiq5fKQg0zON7xnQVw&id=YTI0M2ExMGM5YTU2MzU3NmNkZjA2MTNjMDYzMGQ5N2M=&exp=1594880078
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",METRO TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
+https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSy0M5-hpfj4epMUmI9HvGQk)/dm/3/x75p70w/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",KOMPAS TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1594882628~acl=/hls-p/ingest_874_*/*~hmac=cd51b2d992f70050c9893b843ab98f3a7d36f24a78bc86acc97b1a50927c75b2/hls-p/ingest_874_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA",TVRI
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
