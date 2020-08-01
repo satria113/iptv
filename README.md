@@ -10,6 +10,8 @@ Pot Player : https://potplayer.daum.net/
 
 vlc : https://www.videolan.org/vlc/download-windows.id.html
 
+IP-TV Playet :  https://borpas.info/iptvplayer
+
 
 
 For Android, Android TV, STB
