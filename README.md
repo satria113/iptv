@@ -6,11 +6,11 @@ Playlist for PC and Android
 
 For PC
 -----------------------------------------
+IP-TV Player :  https://borpas.info/iptvplayer
+
 Pot Player : https://potplayer.daum.net/
 
-vlc : https://www.videolan.org/vlc/download-windows.id.html
-
-IP-TV Playet :  https://borpas.info/iptvplayer
+VLC : https://www.videolan.org/vlc/download-windows.id.html
 
 
 
