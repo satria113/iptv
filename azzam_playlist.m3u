@@ -139,8 +139,6 @@ https://cdnmdc1.useetv.com/dass/18/thrill/chunklist_w1908435488_b684100_sleng_en
 https://cdnmdc1.useetv.com/dass/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Discovery Channel
 https://cdnmdc1.useetv.com/dass/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",T AZZAM PLAYLIST
-https://cdnmdc1.useetv.com/dass/18/tmusic/chunklist_w157192412_b684100_sleng_238815.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ABC AUSTRALIA
 https://cdnmdc1.useetv.com/dass/15/abcaustralia/chunklist_w534878349_b894100_sleng_424656.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BALI TV
@@ -178,11 +176,11 @@ https://cdnmdc1.useetv.com/dass/15/history/chunklist_w2034260863_b1344100_sleng_
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",LIFETIME
 https://cdnmdc1.useetv.com/dass/18/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CELESTIAL MOVIE
-https://cdnmdc1.useetv.com/dass/18/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8?enc=rPZHw3x-Qp4eGuN8jSWoKg&exp=1589648375
+https://cdnmdc1.useetv.com/dass/18/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHINESE DRAMA
 https://cdnbdsa1.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANT
-https://cdnmdc1.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8?enc=1oPpDDzeKY6Jv20Ly1ZMDQ&exp=1589709634
+https://cdnmdc1.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANTE
 https://cdnmdc1.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUENTEXTRIME
@@ -225,10 +223,10 @@ https://cdnmdc1.useetv.com/dass/15/afc/chunklist_w493374220_b1344100_sleng_enc=e
 https://cdnmdc1.useetv.com/dass/15/natgeo/chunklist_w1392773337_b894100_sleng_308170.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NAT GEO WILD
 https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KBS WORLD
-https://cdnmdc1.useetv.com/dass/15/kbsworld/chunklist_w1977139449_b894100_sleng_308179.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NAT GEO PEOPLE
 https://cdnmdc1.useetv.com/dass/15/natgeopeople/chunklist_w147764089_b684100_sleng_536479.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KBS WORLD
+https://cdnmdc1.useetv.com/dass/15/kbsworld/chunklist_w1977139449_b894100_sleng_308179.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Khazanah
 https://cdnmdc1.useetv.com/dass/18/khazanah/chunklist_w1515565800_b684100_sleng_27882.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVMU
@@ -327,11 +325,3 @@ https://cdnmdc1.useetv.com/dass/15/fashiontv/chunklist_w2092651349_b684100_sleng
 https://cdnmdc1.useetv.com/dass/18/eatgo/chunklist_w1334804409_b684100_sleng_122482.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MSHOP
 https://cdnmdc1.useetv.com/dass/18/mncshop/chunklist_w1554814398_b684100_sleng_138902.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CITRA DANGDUT
-https://cdnmdc1.useetv.com/dass/18/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Karaoke
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Prambors
-https://cdnmdc1.useetv.com/dass/18/pramborstv/chunklist_w1344365834_b684100_sleng_184337.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",T AZZAM PLAYLIST
-https://cdnmdc1.useetv.com/dass/18/tmusic/chunklist_w870068905_b684100_sleng_138940.m3u8
