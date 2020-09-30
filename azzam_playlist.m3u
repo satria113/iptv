@@ -1,345 +1,163 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",USEESPORT 1
-https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",USEESPORT 2
-https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHAMPION 1
-https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHAMPION 2
-https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BEIN SPORT 1
-https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BEIN SPORT 2
-https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX SPORTS 1
-https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX SPORTS 2
-https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX SPORTS 3
-https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",EGG NETWORK
-https://vcdnjt.useetv.com/dass/18/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Mola sport
-https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Real Madrid 2
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Extremadura TV
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RUANG TERAMPIL
-https://vcdnjt.useetv.com/dass/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",USEE PHOTO
-https://vcdnjt.useetv.com/dass/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",USEEPRIME
-https://vcdnjt.useetv.com/dass/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TRANS7
-https://vcdnjt.useetv.com/dass/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TRANSTV
-https://vcdnjt.useetv.com/dass/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NET
-https://vcdnjt.useetv.com/dass/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+http://210.210.155.35/session/3d469c10-f002-11ea-8825-9c25b3e291aa/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",METRO TV
+https://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NET TV
+https://oxoo.lk21tvonlineid.com/m3u/net.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RTV
-https://vcdnjt.useetv.com/dass/18/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",IDKU
-https://vcdnjt.useetv.com/dass/15/idku/chunklist_w948048682_b894100_sleng_261801.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",METRO TV
-https://vcdnjt.useetv.com/dass/15/metrotv/chunklist_w1262584048_b894100_sleng_307627.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w713173730_b1492000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CNN INDONESIA
-https://vcdnjt.useetv.com/dass/15/cnnindonesia/chunklist_w1865886259_b894100_sleng_308228.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CNN INTERNATIONAL
-https://vcdnjt.useetv.com/dass/15/cnninternational/chunklist_w1418360374_b1344100_sleng_460856.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BERITA SATU
-https://vcdnjt.useetv.com/dass/18/beritasatu/chunklist_w19392159_b684100_sleng_124723.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RRI NET
-https://vcdnjt.useetv.com/dass/18/rrinet/chunklist_w201885848_b684100_sleng_121912.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/rtv.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1387141596_b744100_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1910414162_b744100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVRI
-https://vcdnjt.useetv.com/dass/15/tvri/chunklist_w1749115649_b684100_sleng_233883.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVRI 3
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVRI NASIONAL
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CNBCTV
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CNBC 2
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng_142673.m3u8   
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CITRA DANGDUT
-https://vcdnjt.useetv.com/dass/18/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV EDUKASI
-https://vcdnjt.useetv.com/dass/18/tvedukasi/chunklist_w1106170680_b684100_sleng_122400.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",JAKTV
-https://vcdnjt.useetv.com/dass/18/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",JTV
-https://vcdnjt.useetv.com/dass/18/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DUNIA LAIN
-https://vcdnjt.useetv.com/dass/18/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+httpss://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20tvri.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVONE
+https://iptv-wow.my.id/tv/lk21/ind/tvonedm.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BIOSKOP INDONESIA
+https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CELESTIAL MOVIES
+https://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CITRA DRAMA
-https://vcdnjt.useetv.com/dass/18/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ANTARA
-https://vcdnjt.useetv.com/dass/18/antara/chunklist_w1644761459_b684100_sleng_122661.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",IDX
-https://vcdnjt.useetv.com/dass/18/idx/chunklist_w483148583_b684100_sleng_6127.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/cdrama.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GALAXY
+https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CINEMAX
+https://alwa.lk21tvonlineid.com/cinemax.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HBO
+https://alwa.lk21tvonlineid.com/hbo.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HBO FAMILY
+https://alwa.lk21tvonlineid.com/family.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HBO HITS
+https://alwa.lk21tvonlineid.com/hits.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RED HBO
+https://alwa.lk21tvonlineid.com/red.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SIGNATURE
+http://alwa.lk21tvonlineid.com/signature.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MNX MOVIES
+httpss://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MOVIE KONGDOM
+httpss://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",THRILL
+https://oxoo.lk21tvonlineid.com/m3u/thrill.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WARNER
+https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ZEE BIOSKOP
+https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",K+
+https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KBS WORLD
+https://oxoo.lk21tvonlineid.com/m3u/kbsworld.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY GEM
+https://oxoo.lk21tvonlineid.com/m3u/sgem.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY ONE
+https://oxoo.lk21tvonlineid.com/m3u/sone.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BEIN SPORT 1
+https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BEIN SPORT 2
+https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHAMPION 1
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHAMPION 2
+https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX SPORTS 1
+https://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOX SPORTS 2
+https://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOS SPORTS 3
+https://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",OLYMPIC CHANNEL
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NBA
-https://vcdnjt.useetv.com/dass/15/nba/chunklist_w1353259665_b1344100_sleng_79873.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GOLF PLUS
-https://vcdnjt.useetv.com/dass/15/golfplus/chunklist_w1719035610_b1344100_sleng_79871.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CNA NEWS ASIA
-https://vcdnjt.useetv.com/dass/18/newsasia/chunklist_w1644938297_b684100_sleng_53871.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",INSERT
-https://vcdnjt.useetv.com/dass/18/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WAKU WAKU JAPAN
-https://vcdnjt.useetv.com/dass/15/wakuwaku/chunklist_w709969664_b894100_sleng_308139.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BIOSKOP INDONESIA
-https://vcdnjt.useetv.com/dass/18/bioskopindonesia/chunklist_w1631731122_b684100_sleng_122452.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",JITV
-https://vcdnjt.useetv.com/dass/18/jitv/chunklist_w159766213_b684100_sleng_122270.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ZEE BIOSKOP
-https://vcdnjt.useetv.com/dass/18/zbioskop/chunklist_w2056934236_b684100_sleng_22256.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WARNER WB
-https://vcdnjt.useetv.com/dass/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KIX
-https://vcdnjt.useetv.com/dass/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FRANCE 24
-https://vcdnjt.useetv.com/dass/18/france24/chunklist_w893914186_b684100_sleng_10007.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AFN
-https://vcdnjt.useetv.com/dass/15/afc/chunklist_w1522871859_b894100_sleng_262387.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV9
-https://vcdnjt.useetv.com/dass/18/tv9/chunklist_w1896691661_b684100_sleng_53795.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",K+
-https://vcdnjt.useetv.com/dass/15/kplus/chunklist_w1548894719_b894100_sleng_262387.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CCTV4
-https://vcdnjt.useetv.com/dass/18/cctv4/chunklist_w306122397_b684100_sleng_122365.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ARIRANG
-https://vcdnjt.useetv.com/dass/18/arirang/chunklist_w2073019601_b684100_sleng_122373.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FLIK
-https://vcdnjt.useetv.com/dass/15/flik/chunklist_w1063102987_b894100_sleng_308143.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NHK WORLD
-https://vcdnjt.useetv.com/dass/18/nhkworld/chunklist_w723833860_b684100_sleng_122531.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MSHOP
-https://vcdnjt.useetv.com/dass/18/mncshop/chunklist_w1554814398_b684100_sleng_138902.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DW TV ENGLISH
-https://vcdnjt.useetv.com/dass/18/dwtv/chunklist_w963446656_b684100_sleng_184117.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",IMC
-https://vcdnjt.useetv.com/dass/18/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Thrill
-https://vcdnjt.useetv.com/dass/18/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Warner TV
-https://vcdnjt.useetv.com/dass/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Discovery Channel
-https://vcdnjt.useetv.com/dass/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ABC AUSTRALIA
-https://vcdnjt.useetv.com/dass/15/abcaustralia/chunklist_w534878349_b894100_sleng_424656.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BALI TV
-https://vcdnjt.useetv.com/dass/18/balitv/chunklist_w1304195765_b684100_sleng_238948.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FASHIONONE
-https://vcdnjt.useetv.com/dass/15/fashionone/chunklist_w1872072904_b684100_sleng_324706.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FASHION TV
-https://vcdnjt.useetv.com/dass/15/fashiontv/chunklist_w2092651349_b684100_sleng_324709.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",EURO NEWS
-https://vcdnjt.useetv.com/dass/18/euronews/chunklist_w940408145_b684100_sleng_139039.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GALAXY
-https://vcdnjt.useetv.com/dass/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLOOMBREG
-https://vcdnjt.useetv.com/dass/18/bloomberg/chunklist_w723742416_b684100_sleng_122467.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV5Monde
-https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_w432834801_b684100_sleng_142508.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Prambors
-https://vcdnjt.useetv.com/dass/18/pramborstv/chunklist_w229786603_b684100_sleng_paskas.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",EAT&GO
-https://vcdnjt.useetv.com/dass/18/eatgo/chunklist_w1334804409_b684100_sleng_122482.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY GEM
-https://vcdnjt.useetv.com/dass/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVN MOVIES
-https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY ONE
-https://vcdnjt.useetv.com/dass/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",K PLUS
-https://vcdnjt.useetv.com/dass/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVN
-https://vcdnjt.useetv.com/dass/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AXN
-https://vcdnjt.useetv.com/dass/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HISTORY
-https://vcdnjt.useetv.com/dass/15/history/chunklist_w2034260863_b1344100_sleng_460814.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",LIFETIME
-https://vcdnjt.useetv.com/dass/18/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CELESTIAL MOVIE
-https://vcdnjt.useetv.com/dass/18/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHINESE DRAMA
-https://cdnbdsa1.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANT
-https://vcdnjt.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANTE
-https://vcdnjt.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUENTEXTRIME
-https://vcdnjt.useetv.com/dass/18/blueantextreme/chunklist_w1100727425_b684100_sleng_275111.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/nba.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MOTORSPORT.TV
+https://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ANIMAX
-https://vcdnjt.useetv.com/dass/18/animax/chunklist_w1311799834_b684100_sleng_274242.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/animax.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ANIPLUS
-https://vcdnjt.useetv.com/dass/18/aniplus/chunklist_w1954952247_b684100_sleng_275121.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DUNIA ANAK
-https://vcdnjt.useetv.com/dass/18/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NICKELODEON
-https://vcdnjt.useetv.com/dass/18/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BOOMERANG
+https://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BABY FIRST
+https://oxoo.lk21tvonlineid.com/m3u/babyfirst.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CARTOON NETWORK
-https://vcdnjt.useetv.com/dass/18/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SPACETOON PLUS
-https://vcdnjt.useetv.com/dass/18/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DUCK TV
-https://vcdnjt.useetv.com/dass/18/ducktv/chunklist_w833664660_b684100_sleng_7149.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HOREE
-https://vcdnjt.useetv.com/dass/18/horee/chunklist_w1584998548_b684100_sleng_53758.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLOOMBREG
-https://vcdnjt.useetv.com/dass/18/bloomberg/chunklist_w563250937_b684100_sleng_275171.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DISCOVERY
-https://vcdnjt.useetv.com/dass/15/disco/chunklist_w745576867_b894100_sleng_262551.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",History Indo
-https://vcdnjt.useetv.com/dass/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Nickeledeon
-https://vcdnjt.useetv.com/dass/18/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Nick JR
-https://vcdnjt.useetv.com/dass/18/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ELJOHN
-https://vcdnjt.useetv.com/dass/18/eljohn/chunklist_w583600322_b944100_sleng_1088.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CGTN
-https://vcdnjt.useetv.com/dass/18/cgtndocumentary/chunklist_w688449162_b684100_sleng_122528.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NHK WORLD
-https://vcdnjt.useetv.com/dass/18/nhkworld/chunklist_w723833860_b684100_sleng_122531.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DREAM WORK
+https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DAVINCI
+https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MYKIDS
+https://oxoo.lk21tvonlineid.com/m3u/mykids.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NICKELODEON
+https://oxoo.lk21tvonlineid.com/m3u/nickelodeon.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NICK JR
+https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AFN
-https://vcdnjt.useetv.com/dass/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CGN
+https://oxoo.lk21tvonlineid.com/m3u/crimeinvestigation.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DISCOVERY CHANNEL
+https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FOOD NETWORK
+https://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HISTORY
+https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NAT GEO
-https://vcdnjt.useetv.com/dass/15/natgeo/chunklist_w1392773337_b894100_sleng_308170.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NAT GEO WILD
-https://vcdnjt.useetv.com/dass/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NAT GEO PEOPLE
-https://vcdnjt.useetv.com/dass/15/natgeopeople/chunklist_w147764089_b684100_sleng_536479.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KBS WORLD
-https://vcdnjt.useetv.com/dass/15/kbsworld/chunklist_w1977139449_b894100_sleng_308179.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Khazanah
-https://vcdnjt.useetv.com/dass/18/khazanah/chunklist_w1515565800_b684100_sleng_27882.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVMU
-https://vcdnjt.useetv.com/dass/18/muhammadiyahtv/chunklist_w1663334304_b684100_sleng_185429.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MTA TV
-https://vcdnjt.useetv.com/dass/18/mtatv/chunklist_w1821375083_b684100_sleng_238598.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",RODJATV
-https://vcdnjt.useetv.com/dass/18/rodjatv/chunklist_w373234397_b684100_sleng_138969.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AL QURAN AL KAREEM
-https://vcdnjt.useetv.com/dass/18/alquran/chunklist_w1768877601_b684100_sleng_138977.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV MUI
-https://vcdnjt.useetv.com/dass/18/muitv/chunklist_w1438842565_b684100_sleng_10402.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TAWAF TV
-https://vcdnjt.useetv.com/dass/18/tawaftv/chunklist_w979344880_b684100_sleng_138954.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AlQuran Kareem
-https://vcdnjt.useetv.com/dass/18/alquran/chunklist_w1768877601_b684100_sleng_142491.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Aljazeera
-https://vcdnjt.useetv.com/dass/18/aljazeera/chunklist_w868383204_b684100_sleng_182086.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MQTV
-https://vcdnjt.useetv.com/dass/18/mqtv/chunklist_w1136342416_b684100_sleng_201104.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",U CHANNEL
-https://vcdnjt.useetv.com/dass/18/uchannel/chunklist_w1527968365_b684100_sleng_328748.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",IMC
-https://vcdnjt.useetv.com/dass/18/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ZEE BIOSKOP
-https://vcdnjt.useetv.com/dass/18/zbioskop/chunklist_w2056934236_b684100_sleng_22256.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FLIK
-https://vcdnjt.useetv.com/dass/15/flik/chunklist_w1063102987_b894100_sleng_308143.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",GALAXY
-https://vcdnjt.useetv.com/dass/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BIOSKOP INDONESIA
-https://vcdnjt.useetv.com/dass/18/bioskopindonesia/chunklist_w1631731122_b684100_sleng_122452.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",Thrill
-https://vcdnjt.useetv.com/dass/18/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CELESTIAL MOVIE
-https://vcdnjt.useetv.com/dass/18/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NATIONAL GEOGRAPHIC
+https://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NATIONAL GEOGRAPHIC WILD
+https://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NATIONAL GEOGRAPHIC PEOPLE
+https://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",PEOPLE SCIENCE
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WAKU WAKU
+https://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AHSAN TV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AL BAHJAH
+httpss://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ELSHINTA TV
+https://210.210.155.35/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",HIDUP TV
+https://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",I AM CHANNEL
+https://iamchannel.org:1935/tes/1/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",INSAN TV
+https://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MADINAH TV
+https://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MAKKAH TV
+https://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TAHFIDZ TV
+https://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TEGAR TV
+https://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV IKIM
+https://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BOX HITS
+https://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=https%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHINESE DRAMA
-https://cdnbdsa1.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",LIFE TIME
-https://vcdnjt.useetv.com/dass/18/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CHINESE DRAMA
-https://cdnbdsa1.useetv.com/dass/18/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANT ENTERTIMENT
-https://vcdnjt.useetv.com/dass/18/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANT TEXTREME
-https://vcdnjt.useetv.com/dass/18/blueantextreme/chunklist_w1100727425_b684100_sleng_stgiptv.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",BLUEANT EXTRIME
-https://vcdnjt.useetv.com/dass/18/blueantextreme/chunklist_w1100727425_b684100_sleng_275111.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WARNER WB
-https://vcdnjt.useetv.com/dass/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KIX
-https://vcdnjt.useetv.com/dass/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CINEMA WORLD
-https://vcdnjt.useetv.com/dass/18/cinemaworld/chunklist_w1376420629_b684100_sleng_329487.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",K+
-https://vcdnjt.useetv.com/dass/15/kplus/chunklist_w1548894719_b894100_sleng_262387.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CCTV4
-https://vcdnjt.useetv.com/dass/18/cctv4/chunklist_w306122397_b684100_sleng_122365.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KBS WORLD
-https://vcdnjt.useetv.com/dass/15/kbsworld/chunklist_w1977139449_b894100_sleng_308179.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AXN
-https://vcdnjt.useetv.com/dass/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",CITRA DRAMA
-https://vcdnjt.useetv.com/dass/18/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DUNIA LAIN
-https://vcdnjt.useetv.com/dass/18/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ARIRANG
-https://vcdnjt.useetv.com/dass/18/arirang/chunklist_w2073019601_b684100_sleng_122373.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",NHK WORLD
-https://vcdnjt.useetv.com/dass/18/nhkworld/chunklist_w723833860_b684100_sleng_122531.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WAKU WAKU JAPAN
-https://vcdnjt.useetv.com/dass/15/wakuwaku/chunklist_w709969664_b894100_sleng_308139.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TV5Monde
-https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_w432834801_b684100_sleng_142508.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY GEM
-https://vcdnjt.useetv.com/dass/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVN MOVIES
-https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",SONY ONE
-https://vcdnjt.useetv.com/dass/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",TVN
-https://vcdnjt.useetv.com/dass/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",K PLUS
-https://vcdnjt.useetv.com/dass/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",ABC AUSTRALIA
-https://vcdnjt.useetv.com/dass/15/abcaustralia/chunklist_w1014477449_b684100_sleng_324658.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",WARNER WB
-https://vcdnjt.useetv.com/dass/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",AFN
-https://vcdnjt.useetv.com/dass/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FASHIONONE
-https://vcdnjt.useetv.com/dass/15/fashionone/chunklist_w1872072904_b684100_sleng_324706.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",FASHION TV
-https://vcdnjt.useetv.com/dass/15/fashiontv/chunklist_w2092651349_b684100_sleng_324709.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",EAT&GO
-https://vcdnjt.useetv.com/dass/18/eatgo/chunklist_w1334804409_b684100_sleng_122482.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",MSHOP
-https://vcdnjt.useetv.com/dass/18/mncshop/chunklist_w1554814398_b684100_sleng_138902.m3u8
+httpss://www.djing.com/tv/live.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",DJING SUMMER VIBES
+httpss://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",KARAOKE CHANNEL
+https://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",PRAMBORS
+httpss://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",STREET MUSIC
+httpss://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST",URBAN MUSIC
+httpss://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
