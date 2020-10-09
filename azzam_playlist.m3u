@@ -91,155 +91,154 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", BIOSKOP INDONESIA
-https://cdngb196.useetv.com/joss/14/bioskopindonesia/chunklist_w684545053_b684100_sleng.m3u8?enc=uI2jS0EuWrHowpbxBJCNIA&exp=1602239582
+https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CELESTIAL MOVIES
-https://cdngb196.useetv.com/joss/14/celestialmovie/chunklist_w544362085_b684100_sleng.m3u8?enc=6E-SpX6_Wm-8AHosCn7XNA&exp=1602241275
+https://oxoo.lk21tvonlineid.com/m3u/celestialmovie.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CITRA DRAMA
-https://cdngb196.useetv.com/joss/14/cdrama/chunklist_w653384887_b684100_sleng.m3u8?enc=U1hM5xkR8ek0fd2aVwFWbA&exp=1602209242
+https://oxoo.lk21tvonlineid.com/m3u/cdrama.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", FLIK
+https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", GALAXY
-https://cdngb196.useetv.com/joss/15/galaxy/chunklist_w1515521648_b894100_sleng.m3u8?enc=Fbbx2QPqvTnoubCPwNoJJg&exp=1602210791
+https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
+https://alwa.lk21tvonlineid.com/cinemax.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
+https://alwa.lk21tvonlineid.com/hbo.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/3.m3u8
+https://alwa.lk21tvonlineid.com/family.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/3.m3u8
+https://alwa.lk21tvonlineid.com/hits.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", RED HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/3.m3u8
+https://alwa.lk21tvonlineid.com/red.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO SIGNATURE
+https://alwa.lk21tvonlineid.com/red.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", IMC
-https://cdngb196.useetv.com/joss/14/imc/chunklist_w421231996_b684100_sleng.m3u8?enc=qPmoDfBOlxnD3PmsWDCjnA&exp=1602241289
+https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", THRILL
-https://cdngb196.useetv.com/joss/14/thrill/chunklist_w1430274184_b684100_sleng.m3u8?enc=y9X2i1_3ZxQcqBnlX6OPYw&exp=1602239600
+https://oxoo.lk21tvonlineid.com/m3u/thrill.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", WARNER
-https://cdnbpp1.useetv.com/joss/15/warner/chunklist_w1643453220_b1344100_sleng.m3u8?enc=MpWxcYQru5QGt3YyeJCdHA&exp=1602245283
+https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", ZEE BIOSKOP
-https://cdngb196.useetv.com/joss/14/zbioskop/chunklist_w1384030493_b684100_sleng.m3u8?enc=vham5fWeIkyq358a7hTASQ&exp=1602239602
+https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ARIRANG KOREA
-https://cdnbpp1.useetv.com/joss/14/arirang/chunklist_w1216875156_b684100_sleng.m3u8?enc=0zO6aLTShHQx6sbWal1jbA&exp=1602245237
+https://oxoo.lk21tvonlineid.com/m3u/arirang.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", K+
-https://cdnjt14.useetv.com/joss/15/kplus/chunklist_w1976454765_b1344100_sleng.m3u8?enc=gwpVOwWNSB-kzuLTzsnnjw&exp=1602238058
+https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", KBS WORLD
-https://cdnjt14.useetv.com/joss/15/kbsworld/chunklist_w335021068_b1344100_sleng.m3u8?enc=byfQ584__cXugr0zizK-ig&exp=1602238053
+https://oxoo.lk21tvonlineid.com/m3u/kbsworld.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", SONY GEM
-https://cdnjt14.useetv.com/joss/15/sgem/chunklist_w1695087854_b894100_sleng.m3u8?enc=zy0--5FPKbFNmUXneNU-zw&exp=1602238065
+https://oxoo.lk21tvonlineid.com/m3u/sgem.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", SONY ONE
-https://cdnjt14.useetv.com/joss/15/sone/chunklist_w2086777568_b894100_sleng.m3u8?enc=4Q9hoRgwgGCavaDuxw85VQ&exp=1602238067
+https://oxoo.lk21tvonlineid.com/m3u/sone.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", BEIN SPORT 1
-https://cdnjt25.useetv.com/joss/15/bein1/chunklist_w665488155_b1344100_sleng.m3u8?enc=V__H7Zo-IqJNpLWjdednEw&exp=1602246073
+https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", BEIN SPORT 2
-https://cdnjt25.useetv.com/joss/15/bein2/chunklist_w1498899038_b1344100_sleng.m3u8?enc=M_DrMr304GjXYRmSOr5uYA&exp=1602244383
+https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", CHAMPION 1
-https://cdnjt25.useetv.com/joss/15/champion1/chunklist_w737101288_b1344100_sleng.m3u8?enc=VC97ygCDHmGYp1EEG9EDXA&exp=1602244386
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", CHAMPION 2
-https://cdnjt25.useetv.com/joss/15/champion2/chunklist_w1845557041_b1344100_sleng.m3u8?enc=bB8FnMiyM5hiWIY8Nrdu_w&exp=1602246079
+https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOX SPORTS 1
-https://cdnjt25.useetv.com/joss/15/foxsport1/chunklist_w839821494_b1344100_sleng.m3u8?enc=kKCLx2hEvQ92fdkwjKbMmQ&exp=1602244392
+https://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOX SPORTS 2
-https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_w351725823_b1344100_sleng.m3u8?enc=mZHjeoPfg59BhA7PMPaGIA&exp=1602244394
+https://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOS SPORTS 3
-https://cdnjt25.useetv.com/joss/15/foxsport3/chunklist_w996953664_b1344100_sleng.m3u8?enc=abRQeC_9hcALyTj4nQfCnA&exp=1602244396
+https://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", GOLF PLUS
-https://cdngb196.useetv.com/joss/15/golfplus/chunklist_w1788679731_b1344100_sleng.m3u8?enc=VmXLw6Lwqrdti8e9QEgMUg&exp=1602248005
+https://oxoo.lk21tvonlineid.com/m3u/golfplus.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", OLYMPIC CHANNEL
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", NBA
-https://cdnjt25.useetv.com/joss/15/nba/chunklist_w1910092708_b1344100_sleng.m3u8?enc=lbnosPA556lnNTMcf9J_hQ&exp=1602244398
+https://oxoo.lk21tvonlineid.com/m3u/nba.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", MOTORSPORT.TV
-https://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", ANIMAX
-https://cdnbpp1.useetv.com/joss/14/animax/chunklist_w528769242_b684100_sleng.m3u8?enc=lqeQhMkX-mIEFqkHwSOBPQ&exp=1602245232
+https://oxoo.lk21tvonlineid.com/m3u/animax.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", ANIPLUS
-https://cdnbpp1.useetv.com/joss/14/aniplus/chunklist_w1416707240_b684100_sleng.m3u8?enc=NLbGMM5OELhap90JyBdHuw&exp=1602245234
+https://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", BOOMERANG
-https://cdnbpp1.useetv.com/joss/14/boomerang/chunklist_w739683231_b684100_sleng.m3u8?enc=FCMww49Z988nCiNOHtHu_w&exp=1602247095
+https://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", BABY FIRST
-https://cdnbpp1.useetv.com/joss/14/babyfirst/chunklist_w1764928379_b684100_sleng.m3u8?enc=qF2yJTlNOqNRpFE0ahDcIg&exp=1602247093
+https://oxoo.lk21tvonlineid.com/m3u/babyfirst.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", CARTOON NETWORK
-https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w517374656_b684100_sleng.m3u8?enc=ptNhYdpZiwTNRGPD9bIGPg&exp=1602245406
+https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", DREAMWORK
-https://cdnbpp1.useetv.com/joss/15/dreamworks/chunklist_w273170647_b1344100_sleng.m3u8?enc=EBO1dm07x5uS8qjGsBpMRQ&exp=1602247102
+https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", DAVINCI
-https://cdnbpp1.useetv.com/joss/14/davinci/chunklist_w1388082706_b684100_sleng.m3u8?enc=gI4RSRkGHyQuzSNSutEXoQ&exp=1602245408
+https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", MYKIDS
-https://cdnbpp1.useetv.com/joss/14/mykids/chunklist_w1467033466_b894100_sleng.m3u8?enc=YSPv4e4AAm8MSss3OMOB4Q&exp=1602245421
+https://oxoo.lk21tvonlineid.com/m3u/mykids.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", NICKELODEON
-https://cdnbpp1.useetv.com/joss/14/nickelodeon/chunklist_w136185550_b684100_sleng.m3u8?enc=zsv1sekxeJJD0EKRu6LZUg&exp=1602247115
+https://oxoo.lk21tvonlineid.com/m3u/nickelodeon.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", NICK JR
-https://cdnbpp1.useetv.com/joss/14/nickjr/chunklist_w2068778666_b684100_sleng.m3u8?enc=TkSc_VEn-i6jF63sG9efig&exp=1602245426
+https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", AFN
-https://cdngb196.useetv.com/joss/15/afc/chunklist_w1859626285_b1344100_sleng.m3u8?enc=6TnzPZWYJRNtS3JfudzXqQ&exp=1602246004
+https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", CGN
-https://cdnbpp1.useetv.com/joss/15/crimeinvestigation/chunklist_w1642890803_b894100_sleng.m3u8?enc=5eACuyq5LCYep5L6gfcqUw&exp=1602245522
+https://oxoo.lk21tvonlineid.com/m3u/crimeinvestigation.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", DISCOVERY CHANNEL
-https://cdnbpp1.useetv.com/joss/15/disco/chunklist_w1357715036_b1344100_sleng.m3u8?enc=p7AiXNTJcROG_4lXHWm-4A&exp=1602245527
+https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", HISTORY
-https://cdnbpp1.useetv.com/joss/15/history/chunklist_w2078451238_b1344100_sleng.m3u8?enc=3OXqrPaejS_DplQ9Lzrd-g&exp=1602245253
+https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO
-https://cdnbpp1.useetv.com/joss/15/natgeo/chunklist_w1508016060_b1344100_sleng.m3u8?enc=0ZK7YlJOdRkIf9rQ82cXCQ&exp=1602245529
+https://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO WILD
-https://cdnbpp1.useetv.com/joss/15/natgeowild/chunklist_w1528979507_b1344100_sleng.m3u8?enc=ZgoMYiYbcYWIdXJ0dS1BKQ&exp=1602245534
+https://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO PEOPLE
-https://cdnbpp1.useetv.com/joss/15/natgeopeople/chunklist_w541911891_b1344100_sleng.m3u8?enc=E7x8zWbXuC9VARzZhOwb-A&exp=1602245531
+https://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NHK WORLD
-https://cdnbpp1.useetv.com/joss/14/nhkworld/chunklist_w889062011_b684100_sleng.m3u8?enc=63WFaohW1tpVqTtUaHeiEQ&exp=1602246960
+https://oxoo.lk21tvonlineid.com/m3u/nhkworld.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", POPULAR SCIENCE
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", PEOPLE SCIENCE
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", WAKU WAKU
-https://cdnbpp1.useetv.com/joss/15/wakuwaku/chunklist_w1891172643_b1344100_sleng.m3u8?enc=WUipvjvqrpQcwQ4mqnrB5A&exp=1602245280
-
+https://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8
