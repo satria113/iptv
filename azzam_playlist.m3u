@@ -2,63 +2,64 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", SCTV
-https://mkctv.net/vidbos/sctv.m3u8
-
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", INDOSIAR
-https://mkctv.net/vidbos/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", NET
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
-
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="INDONESIA, NET TV
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", RTV
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TRANS 7
-https://mkctv.net/vidbos/trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png"" group-title="AZZAM PLAYLIST", TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png"" group-title="AZZAM PLAYLIST", TRANS TV
-http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
-
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TRANS TV
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", RTV
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TVONE
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", KOMPAS TV
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", DAAI TV
+http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TVRI
+http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TVRI NASIONAL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", JITV
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/132.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNN INDONESIA
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/135.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", JAKARTA GLOBE NEWS
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/136.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", JAKTV
+http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNN Indonesia HD Backup
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNBC HD
+http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", BIOSKOP INDONESIA
 https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM PLAYLIST", CELESTIAL MOVIES
