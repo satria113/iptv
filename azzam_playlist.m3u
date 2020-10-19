@@ -112,7 +112,7 @@ https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 https://alwa.lk21tvonlineid.com/cinemax.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO
-https://www.dropbox.com/s/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
+https://dl.dropboxusercontent.com/s/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", HBO FAMILY
 https://dl.dropboxusercontent.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8
@@ -299,9 +299,6 @@ https://omahtv.xyz/stream/usee-fashionone-lk21-omah-tv.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", FASHION TV
 https://omahtv.xyz/stream/usee-fashiontv-lk21-omah-tv.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", LIFESTYLE
-http://210.210.155.35/session/b955dc64-965a-11ea-b1f3-c81f66f89318/uq2663/h/h28/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", AFN
 https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
