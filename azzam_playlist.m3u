@@ -147,23 +147,29 @@ https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", ZEE BIOSKOP
 https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", ONE
-https://omahtv.xyz/stream/usee-sone-lk21-omah-tv.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", GEM
-https://omahtv.xyz/stream/usee-sgem-lk21-omah-tv.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", TVN
-https://omahtv.xyz/stream/usee-tvn-lk21-omah-tv.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", TVN MOVIES
-https://omahtv.xyz/stream/usee-tvnmovies-lk21-omah-tv.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", USA
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ARIRANG KOREA
 https://oxoo.lk21tvonlineid.com/m3u/arirang.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", K+
 https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ONE
+https://omahtv.xyz/stream/usee-sone-lk21-omah-tv.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", GEM
+https://omahtv.xyz/stream/usee-sgem-lk21-omah-tv.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", TVN
+https://omahtv.xyz/stream/usee-tvn-lk21-omah-tv.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", TVN MOVIES
+https://omahtv.xyz/stream/usee-tvnmovies-lk21-omah-tv.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ZQ DRAMA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", KBS WORLD
 https://oxoo.lk21tvonlineid.com/m3u/kbsworld.m3u8
@@ -176,6 +182,9 @@ https://oxoo.lk21tvonlineid.com/m3u/sone.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", SBS STAR
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
@@ -212,9 +221,6 @@ https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", NBA
 https://oxoo.lk21tvonlineid.com/m3u/nba.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", WWE
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", RTM SPORTS
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
