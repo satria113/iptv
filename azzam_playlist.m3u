@@ -267,9 +267,6 @@ https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", EAT&GO
 https://cdnjt25.useetv.com/joss/14/eatgo/chunklist_w1334804409_b684100_sleng_122482.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", CRIME INVESTIGATION
-https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_w553225437_b894100_sleng_526198.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", LIFETIME
 https://cdnjt25.useetv.com/joss/14/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
 
@@ -300,7 +297,7 @@ https://cdnjt25.useetv.com/joss/15/fashiontv/chunklist_w2092651349_b684100_sleng
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", AFN
 https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", CGN
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", CRIME INVESTIGATION
 https://oxoo.lk21tvonlineid.com/m3u/crimeinvestigation.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", ANIMAL PLANET
