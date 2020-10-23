@@ -111,24 +111,6 @@ https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CINEMAX
 https://alwa.lk21tvonlineid.com/cinemax.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", HBO
-https://dl.dropboxusercontent.com/s/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", HBO FAMILY
-https://dl.dropboxusercontent.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", HBO HITS
-https://dl.dropboxusercontent.com/s/vexp5kd8gvahffd/hbohit.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", RED HBO
-https://dl.dropboxusercontent.com/s/83u4976cz4j6nc1/red.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", HBO SIGNATURE
-https://dl.dropboxusercontent.com/s/vk9sojyyegjxdnj/hbosig.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX MOVIES
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", AXN
 https://cdnjt25.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
 
