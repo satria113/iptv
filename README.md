@@ -20,7 +20,7 @@ Perfect Player : https://bit.ly/ptplayer
 
 Televizo : https://bit.ly/tlvizo
 
-IPTV Online : https://raw.githubusercontent.com/satria113/iptv/master/IPTV online 1.0.apk
+IPTV Online : https://github.com/satria113/iptv/blob/master/IPTV%20online%201.0.apk?raw=true
 
 
 
