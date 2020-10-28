@@ -16,13 +16,15 @@ VLC : https://www.videolan.org/vlc/download-windows.id.html
 
 For Android, Android TV, STB
 -----------------------------------------
+IPTV Online : http://bit.ly/iptv_online
+
 Perfect Player : https://bit.ly/ptplayer
 
 Televizo : https://bit.ly/tlvizo
 
-IPTV Online : https://github.com/satria113/iptv/blob/master/IPTV%20online%201.0.apk?raw=true
-
 User Agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+
+
 
 Short url playlist (put in your player)
 -----------------------------------------
