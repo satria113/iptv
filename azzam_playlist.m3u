@@ -165,6 +165,12 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", TVRI SPORT
 http://210.210.155.35/session/4e6c8c72-96ab-11e9-b6f3-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", USEESPORT 1
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", USEESPORT 2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", BEIN SPORT 1
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 
