@@ -30,12 +30,6 @@ Short url playlist (put in your player)
 -----------------------------------------
 https://bit.ly/azzam_playlist
 
-https://bit.ly/azzam_playlist2
-
-https://bit.ly/azzam_playlist3
-
-https://bit.ly/azzam_playlist4
-
 https://bit.ly/VOD-1
 
 https://bit.ly/VOD-2
