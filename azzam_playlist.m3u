@@ -10,7 +10,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-m
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", SCTV
-https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", INDOSIAR
 http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
@@ -25,10 +25,10 @@ http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", TRANS 7
-https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", TRANS TV
-https://cdnjt25.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", DAAI TV
 http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
@@ -52,7 +52,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-m
 http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", METRO TV
-https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_w571035449_b894100_sleng_145414.m3u8
+http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", KOMPAS TV
 http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
@@ -67,13 +67,7 @@ http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", CNN Indonesia HD Backup
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -91,7 +85,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", DUNIA ANAK
-https://cdnjt25.useetv.com/joss/14/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
+https://newbonetv.xyz/m3u/usee-duniaanak-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", ANIMAX
 https://oxoo.lk21tvonlineid.com/m3u/animax.m3u8
@@ -122,42 +116,6 @@ https://oxoo.lk21tvonlineid.com/m3u/nickelodeon.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", NICK JR
 https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", INSERT
-https://cdnjt25.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", DUNIA LAIN
-https://cdnjt25.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", EAT&GO
-https://cdnjt25.useetv.com/joss/14/eatgo/chunklist_w1334804409_b684100_sleng_122482.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", LIFETIME
-https://cdnjt25.useetv.com/joss/14/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
-https://cdnjt25.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", BLUE ANT EXTREME
-https://cdnjt25.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_sleng_275111.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", USEE PHOTO
-https://cdnjt25.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", USEE PRIME
-https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", RUANG TRAMPIL
-https://cdnjt25.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", IDKU
-https://cdnjt25.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", FASHION ONE
-https://cdnjt25.useetv.com/joss/15/fashionone/chunklist_w1872072904_b684100_sleng_324706.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="HIBURAN", FASHION TV
-https://cdnjt25.useetv.com/joss/15/fashiontv/chunklist_w2092651349_b684100_sleng_324709.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", AFN
 https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
@@ -203,12 +161,6 @@ https://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", TVRI SPORT
 http://210.210.155.35/session/4e6c8c72-96ab-11e9-b6f3-b82a72d63267/qwr9ew/s/s107/01.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", USEESPORT 1
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", USEESPORT 2
-https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", BEIN SPORT 1
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
@@ -259,7 +211,7 @@ https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN MOVIES
-#https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+https://newbonetv.xyz/m3u/usee-tvnmovies-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ZQ DRAMA
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
@@ -304,8 +256,7 @@ https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 https://alwa.lk21tvonlineid.com/cinemax.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", AXN
-#https://cdnjt25.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
-#https://oxoo.lk21tvonlineid.com/m3u/axn.m3u8
+https://newbonetv.xyz/m3u/usee-axn-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", IMC
 https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
@@ -314,7 +265,7 @@ https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/thrill.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", KIX
-https://cdnjt25.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+https://newbonetv.xyz/m3u/usee-kix-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", WARNER TV
 https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
