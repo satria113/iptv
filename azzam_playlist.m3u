@@ -256,10 +256,10 @@ https://oxoo.lk21tvonlineid.com/m3u/arirang.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN
-https://cdnjt25.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN MOVIES
-https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+#https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ZQ DRAMA
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
@@ -289,7 +289,7 @@ https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/celestialmovie.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CHINESE DRAMA
-https://cdnjt25.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CITRA DRAMA
 https://oxoo.lk21tvonlineid.com/m3u/cdrama.m3u8
@@ -304,7 +304,8 @@ https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 https://alwa.lk21tvonlineid.com/cinemax.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", AXN
-https://cdnjt25.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
+#https://cdnjt25.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
+#https://oxoo.lk21tvonlineid.com/m3u/axn.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", IMC
 https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
