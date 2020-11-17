@@ -287,6 +287,3 @@ https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX MOVIES
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", MOLA TV FREE
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?hdnts=st=1605439325~exp=1605439445~acl=/i/*~hmac=59c9805c0e2bc3e16f072b05441372ecf1929b1b7fa233a66b36900481e936a5
