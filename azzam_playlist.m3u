@@ -162,7 +162,7 @@ https://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", HGTV
 https://newbonetv.xyz/m3u/usee-hgtv-okebos.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", BLUEANT ENTERTAINMENT
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", BLUEANT
 https://newbonetv.xyz/m3u/usee-blueant-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", BLUEANT EXTREME
@@ -287,21 +287,6 @@ https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", ZEE BIOSKOP
 https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX
-#http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/3
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX ACTION
-#http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/6
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX CRIME
-#http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/4
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX FAMILY
-#http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/7
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX LIFE
-#http://103.76.148.203:25461/EqyGiMlzsS/xvlVrI4VzZ/5
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX MOVIES
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
