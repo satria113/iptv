@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="OXYGEN.ID" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png?cdy=8.8.8.8" group-title="Lokal",OXYGEN.ID
+http://103.130.186.138:8800/oxygenplay/oxygentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png?cdy=8.8.8.8" group-title="Lokal",NET TV
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg?cdy=8.8.8.8" group-title="Lokal",METRO TV
+http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg?cdy=8.8.8.8" group-title="Lokal",TVRI NASIONAL
+http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png?cdy=8.8.8.8" group-title="Lokal",SCTV
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png?cdy=8.8.8.8" group-title="Lokal",TRANS 7
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png?cdy=8.8.8.8" group-title="Lokal",TRANS TV
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/38b921488d46eff4c6d6.png?cdy=8.8.8.8" group-title="Lokal",INDOSIAR 
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png?cdy=8.8.8.8" group-title="Sport",ANTV
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c9917a03b2b782028515.png?cdy=8.8.8.8" group-title="Lokal",TV ONE
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg?cdy=8.8.8.8" group-title="Lokal",JAK TV
+http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MATRIX TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/797226b837e2ea8f087d.jpg?cdy=8.8.8.8" group-title="Lokal",MATRIX TV
+http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEJEL HS" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fec4c98cea3945097dd.jpg?cdy=8.8.8.8" group-title="Lokal",LEJEL HS
+http://103.130.186.138:8800/oxygenplay/lejelhs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NUSANTARA TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/52bec920962e5b131d18.png?cdy=8.8.8.8" group-title="Knowledge",NUSANTARA TV
+http://103.130.186.138:8800/oxygenplay/nusantaratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d8611b639307ee6fce8e.png?cdy=8.8.8.8" group-title="Lokal",KOMPAS TV
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c10eb710b32d995c32eb.png?cdy=8.8.8.8" group-title="Lokal",RTV
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2c6b74b452fa9cf7da7f.png?cdy=8.8.8.8" group-title="Lokal",O CHANNEL
+http://103.130.186.138:8800/oxygenplay/ochannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d7f85c7abb6523aa7739.png?cdy=8.8.8.8" group-title="Lokal",NHK WORLD
+http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX HK" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/bd61ea4a4529b624be6b.png?cdy=8.8.8.8" group-title="Lokal",PHOENIX HK
+http://103.130.186.138:8800/oxygenplay/phoenixhongkong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW TV ASIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2d979d476997759e33cb.jpg?cdy=8.8.8.8" group-title="Lokal",DW TV ASIA
+http://103.130.186.138:8800/oxygenplay/dwenglish/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3795b204fc8397d37b67.jpg?cdy=8.8.8.8" group-title="Lokal",FRANCE 24
+http://103.130.186.138:8800/oxygenplay/france24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG WORLD" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/28521944ef3ed83e91f3.png?cdy=8.8.8.8" group-title="Lokal",ARIRANG WORLD
+http://103.130.186.138:8800/oxygenplay/arirangworld/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3262a3392d5e1d28185d.jpg?cdy=8.8.8.8" group-title="Lokal",CCTV 4
+http://103.130.186.138:8800/oxygenplay/cctv4asia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/801ce5b3d197a0392f7d.png?cdy=8.8.8.8" group-title="Lokal",VOA
+http://103.130.186.138:8800/oxygenplay/voa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6757809d28dd78212e2a.jpg?cdy=8.8.8.8" group-title="Lokal",RAI ITALIA
+http://103.130.186.138:8800/oxygenplay/raiitalia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV 1" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e2f668b3dafde7e16652.jpg?cdy=8.8.8.8" group-title="Lokal",CETV 1
+http://103.130.186.138:8800/oxygenplay/cetv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE ASIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d0f387d13c1687a7a818.jpg?cdy=8.8.8.8" group-title="Lokal",TVE ASIA
+http://103.130.186.138:8800/oxygenplay/tveasia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cfc5d67a54f4e9d00f13.png?cdy=8.8.8.8" group-title="Lokal",TV5 MONDE
+http://103.130.186.138:8800/oxygenplay/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ce7793eda5c21349da6a.jpg?cdy=8.8.8.8" group-title="Lokal",CGTN DOCUMENTARY
+http://103.130.186.138:8800/oxygenplay/cgtndocumentary/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALAM TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/71b6548371859e81ff04.png?cdy=8.8.8.8" group-title="Lokal",SALAM TV
+http://103.130.186.138:8800/oxygenplay/salamtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7828d7728db98a50b2e9.png?cdy=8.8.8.8" group-title="Lokal",RODJA TV
+http://103.130.186.138:8800/oxygenplay/rodjatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="U CHANNEL" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/f3cb80ed481c8de3b5f2.png?cdy=8.8.8.8" group-title="Lokal",U CHANNEL
+http://103.130.186.138:8800/oxygenplay/uchannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI INDONESIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e4dfde2c20583ebd204.png?cdy=8.8.8.8" group-title="Lokal",DAAI INDONESIA
+http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUR'AN TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aeee256d1b828f156211.jpg?cdy=8.8.8.8" group-title="Lokal",QUR'AN TV
+http://103.130.186.138:8800/oxygenplay/qurantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e958c74a40131ba7121.jpg?cdy=8.8.8.8" group-title="Lokal",TAWAF TV
+http://103.130.186.138:8800/oxygenplay/tawaftv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e1a7e570bc390f9ef9b.jpg?cdy=8.8.8.8" group-title="Lokal",BERITA SATU
+http://103.130.186.138:8800/oxygenplay/beritasatu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b82707dfbb58ee23c108.jpg?cdy=8.8.8.8" group-title="Lokal",iNews TV
+http://103.130.186.138:8800/oxygenplay/inews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8543486df8c9d785112.png?cdy=8.8.8.8" group-title="Lokal",CNBC INDONESIA
+http://103.130.186.138:8800/oxygenplay/cnbcindonesia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e6dc9e1f7a81aa26de2.jpg?cdy=8.8.8.8" group-title="Lokal",AL JAZEERA
+http://103.130.186.138:8800/oxygenplay/aljazeera/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c0582b75e7f1d54d62a4.jpg?cdy=8.8.8.8" group-title="Lokal",TRT WORLD
+http://103.130.186.138:8800/oxygenplay/trtworld/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX CHINESE" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a8562fa41083c12cac32.jpg?cdy=8.8.8.8" group-title="Lokal",PHOENIX CHINESE
+http://103.130.186.138:8800/oxygenplay/phoenixchinese/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e23b41820e0eff52868.png?cdy=8.8.8.8" group-title="Lokal",CHANNEL NEWS ASIA
+http://103.130.186.138:8800/oxygenplay/channelnewsasia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20974d1ab7de157e95d3.png?cdy=8.8.8.8" group-title="Lokal",RUSSIA TODAY
+http://103.130.186.138:8800/oxygenplay/russiatoday/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX INFO NEWS" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5e09e6da956848188d3c.png?cdy=8.8.8.8" group-title="Lokal",PHOENIX INFO NEWS
+http://103.130.186.138:8800/oxygenplay/phoenixnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e4afd29602b1de683cf.png?cdy=8.8.8.8" group-title="Lokal",EURONEWS
+http://103.130.186.138:8800/oxygenplay/euronewsasia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/87e30aa5de2af8c31382.jpg?cdy=8.8.8.8" group-title="Lokal",CGTN
+http://103.130.186.138:8800/oxygenplay/cgtn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB NEWS" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/8b85d40c59df3e036194.jpeg?cdy=8.8.8.8" group-title="Lokal",TVB NEWS
+http://103.130.186.138:8800/oxygenplay/tvbnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c52785e9c70bc6e38556.png?cdy=8.8.8.8" group-title="Lokal",BLOOMBERG
+http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20f4250451a65d27750e.jpg?cdy=8.8.8.8" group-title="Lokal",CNBC
+http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA INDONESIA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/dfe1b00e05f7a1a07edc.jpg?cdy=8.8.8.8" group-title="Lokal",SINEMA INDONESIA
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA INDONESIA X" tvg-logo=""http://103.130.186.139:12803/oxygentv/assets/upload/channel/9fbec8d89033a1fbaeb4.jpg?cdy=8.8.8.8" group-title="Lokal",SINEMA INDONESIA X
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1516cfff880cf8f05772.jpg?cdy=8.8.8.8" group-title="Lokal",B4U MOVIES
+http://103.130.186.138:8800/oxygenplay/b4umovieindia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XING KONG CHINA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6a2818cb3b25880863df.png?cdy=8.8.8.8" group-title="Lokal",XING KONG CHINA
+http://103.130.186.138:8800/oxygenplay/xingkong/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOTUS MACAU" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/fbd60061e32ee1d47ef7.png?cdy=8.8.8.8" group-title="Lokal",LOTUS MACAU
+http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAKOR PLUS" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/690bf312c6d80d78616a.png?cdy=8.8.8.8" group-title="Lokal",DRAKOR PLUS
+http://103.130.186.138:8800/oxygenplay/drakorplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cc206a4b878ea6199f19.jpg?cdy=8.8.8.8" group-title="Lokal",FASHION TV
+http://103.130.186.138:8800/oxygenplay/fashiontv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K DRAMA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/997f8f4276359bbba313.jpg?cdy=8.8.8.8" group-title="Lokal",K DRAMA
+http://103.130.186.138:8800/oxygenplay/k-drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO TO LUXE" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d3ee85a036b7269bf021.png?cdy=8.8.8.8" group-title="Lokal",GO TO LUXE
+http://103.130.186.138:8800/oxygenplay/gotoluxe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL V CHINA" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4361f515f6f4713d61e8.png?cdy=8.8.8.8" group-title="Lokal",CHANNEL V CHINA
+http://103.130.186.138:8800/oxygenplay/vchina/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png?cdy=8.8.8.8" group-title="Lokal",B4U MUSIC
+http://103.130.186.138:8800/oxygenplay/b4umusicindia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV CHINA" tvg-logo="ttp://103.130.186.139:12803/oxygentv/assets/upload/channel/b7e28ec799d372608cb5.png?cdy=8.8.8.8" group-title="Lokal",MTV CHINA
+http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba0708dd596e739e5a1c.jpg?cdy=8.8.8.8" group-title="Lokal",SPACETOON
+http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUKASI" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/0eb528acf376b17cc57f.png?cdy=8.8.8.8" group-title="Lokal",TV EDUKASI
+http://103.130.186.138:8800/oxygenplay/tvedukasi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONMAX" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png?cdy=8.8.8.8" group-title="Lokal",TOONMAX
+http://103.130.186.138:8800/oxygenplay/toonmax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png?cdy=8.8.8.8" group-title="Lokal",TVRI SPORT
+http://103.130.186.138:8800/oxygenplay/tvrisport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ONE" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/248973fc8f7c29f3df72.jpg?cdy=8.8.8.8" group-title="Lokal",SPORT ONE
+http://103.130.186.138:8800/oxygenplay/sportone/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS TWO" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8b160572e513f2f2858.png?cdy=8.8.8.8" group-title="Lokal",AL KASS TWO
+http://103.130.186.138:8800/oxygenplay/alkasstwo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 3" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="Lokal",DUBAI SPORTS 3
+http://103.130.186.138:8800/oxygenplay/dubaisport3/index.m3u8
