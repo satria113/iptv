@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
-https://vcdnjt.useetv.com/joss/15/lingua/chunklist_w199181435_b494100_sleng.m3u8?enc=3-a7oWvjDqFEiWIHoB9iAg&exp=1604660292
-#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
-https://vcdnjt.useetv.com/joss/15/lingua/chunklist_w199181435_b684100_sleng.m3u8?enc=3-a7oWvjDqFEiWIHoB9iAg&exp=1604660292
-#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
-https://vcdnjt.useetv.com/joss/15/lingua/chunklist_w199181435_b894100_sleng.m3u8?enc=3-a7oWvjDqFEiWIHoB9iAg&exp=1604660292
