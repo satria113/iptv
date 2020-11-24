@@ -10,7 +10,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-m
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", SCTV
-#https://newbonetv.xyz/m3u/sctv.m3u8
+https://newbonetv.xyz/m3u/usee-sctv-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", INDOSIAR
 http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
@@ -49,16 +49,19 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-m
 http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", METRO TV
-http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+https://newbonetv.xyz/m3u/vidio-metrotv-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", KOMPAS TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+https://newbonetv.xyz/m3u/usee-kompastv-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+https://newbonetv.xyz/m3u/usee-beritasatu-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", JAKTV
-http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
+https://newbonetv.xyz/m3u/usee-jaktv-okebos.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", JTV
+https://newbonetv.xyz/m3u/usee-jtv-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
