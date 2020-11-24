@@ -121,7 +121,7 @@ https://newbonetv.xyz/m3u/usee-nickjr-okebos.m3u8
 https://newbonetv.xyz/m3u/usee-afc-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", CRIME INVESTIGATION
-https://newbonetv.xyz/m3u/usee-crimeinvestigation-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-crimeinvestigation-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -151,7 +151,7 @@ https://newbonetv.xyz/m3u/usee-natgeowild-okebos.m3u8
 https://newbonetv.xyz/m3u/usee-natgeopeople-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", NHK WORLD
-https://newbonetv.xyz/m3u/usee-nhkworld-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-nhkworld-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", PEOPLE SCIENCE
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -160,13 +160,13 @@ https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 https://newbonetv.xyz/m3u/usee-wakuwaku-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", HGTV
-https://newbonetv.xyz/m3u/usee-hgtv-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-hgtv-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", BLUEANT
-https://newbonetv.xyz/m3u/usee-blueant-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-blueant-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", BLUEANT EXTREME
-https://newbonetv.xyz/m3u/usee-blueantextreme-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-blueantextreme-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", USEE SPORT 1
 https://newbonetv.xyz/m3u/usee-useesport-okebos.m3u8
@@ -184,10 +184,10 @@ https://newbonetv.xyz/m3u/usee-bein1-okebos.m3u8
 https://newbonetv.xyz/m3u/usee-bein2-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", CHAMPION 1
-https://newbonetv.xyz/m3u/usee-champion1-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-champion1-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", CHAMPION 2
-https://newbonetv.xyz/m3u/usee-champion2-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-champion2-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", FOX SPORTS 1
 https://newbonetv.xyz/m3u/usee-foxsport1-okebos.m3u8
@@ -217,7 +217,7 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ARIRANG KOREA
-https://newbonetv.xyz/m3u/usee-arirang-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-arirang-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", K+
 https://newbonetv.xyz/m3u/usee-kplus-okebos.m3u8
@@ -226,7 +226,7 @@ https://newbonetv.xyz/m3u/usee-kplus-okebos.m3u8
 https://newbonetv.xyz/m3u/usee-tvn-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN MOVIES
-https://newbonetv.xyz/m3u/usee-tvnmovies-okebos.m3u8
+#https://newbonetv.xyz/m3u/usee-tvnmovies-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ZQ DRAMA
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
@@ -286,4 +286,4 @@ https://newbonetv.xyz/m3u/usee-warner-okebos.m3u8
 https://newbonetv.xyz/m3u/usee-zbioskop-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX MOVIES
-http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
+#http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
