@@ -10,13 +10,13 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-m
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", SCTV
-https://oxoo.lk21tvonlineid.com/m3u/sctv.m3u8
+#https://newbonetv.xyz/m3u/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", INDOSIAR
 http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", NET TV
-https://oxoo.lk21tvonlineid.com/m3u/net.m3u8
+https://newbonetv.xyz/m3u/vidio-net-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", RTV
 http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
@@ -25,10 +25,10 @@ http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", TRANS 7
-https://oxoo.lk21tvonlineid.com/m3u/trans7.m3u8
+https://newbonetv.xyz/m3u/usee-trans7-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", TRANS TV
-https://oxoo.lk21tvonlineid.com/m3u/transtv.m3u8
+https://newbonetv.xyz/m3u/usee-trans7-okebos.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="LOKAL", TVRI
 http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
@@ -85,40 +85,40 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://newbonetv.xyz/m3u/usee-duniaanak-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", ANIMAX
-https://oxoo.lk21tvonlineid.com/m3u/animax.m3u8
+https://newbonetv.xyz/m3u/usee-animax-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", ANIPLUS
-https://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8
+https://newbonetv.xyz/m3u/usee-aniplus-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", BOOMERANG
-https://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8
+https://newbonetv.xyz/m3u/usee-boomerang-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", BABY FIRST
-https://oxoo.lk21tvonlineid.com/m3u/babyfirst.m3u8
+https://newbonetv.xyz/m3u/usee-babyfirst-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", CARTOON NETWORK
-https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
+https://newbonetv.xyz/m3u/usee-cartoonnetwork-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", DREAMWORK
-https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
+https://newbonetv.xyz/m3u/usee-dreamworks-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", DAVINCI
-https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
+https://newbonetv.xyz/m3u/usee-davinci-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", MYKIDS
-https://oxoo.lk21tvonlineid.com/m3u/mykids.m3u8
+https://newbonetv.xyz/m3u/usee-mykids-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", NICKELODEON
-https://oxoo.lk21tvonlineid.com/m3u/nickelodeon.m3u8
+https://newbonetv.xyz/m3u/usee-nickelodeon-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="ANAK-ANAK", NICK JR
-https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
+https://newbonetv.xyz/m3u/usee-nickjr-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", AFN
-https://oxoo.lk21tvonlineid.com/m3u/afc.m3u8
+https://newbonetv.xyz/m3u/usee-afc-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", CRIME INVESTIGATION
-https://oxoo.lk21tvonlineid.com/m3u/crimeinvestigation.m3u8
+https://newbonetv.xyz/m3u/usee-crimeinvestigation-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -133,28 +133,28 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL
-https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
+https://newbonetv.xyz/m3u/usee-disco-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", HISTORY
-https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
+https://newbonetv.xyz/m3u/usee-history-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", NAT GEO
-https://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8
+https://newbonetv.xyz/m3u/usee-natgeo-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", NAT GEO WILD
-https://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8
+https://newbonetv.xyz/m3u/usee-natgeowild-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", NAT GEO PEOPLE
-https://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8
+https://newbonetv.xyz/m3u/usee-natgeopeople-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", NHK WORLD
-https://oxoo.lk21tvonlineid.com/m3u/nhkworld.m3u8
+https://newbonetv.xyz/m3u/usee-nhkworld-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", PEOPLE SCIENCE
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", WAKU WAKU
-https://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8
+https://newbonetv.xyz/m3u/usee-wakuwaku-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="PENGETAHUAN", HGTV
 https://newbonetv.xyz/m3u/usee-hgtv-okebos.m3u8
@@ -175,34 +175,34 @@ https://newbonetv.xyz/m3u/usee-useesports2-okebos.m3u8
 http://210.210.155.35/session/4e6c8c72-96ab-11e9-b6f3-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", BEIN SPORT 1
-https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+https://newbonetv.xyz/m3u/usee-bein1-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", BEIN SPORT 2
-https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+https://newbonetv.xyz/m3u/usee-bein2-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", CHAMPION 1
-https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
+https://newbonetv.xyz/m3u/usee-champion1-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", CHAMPION 2
-https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
+https://newbonetv.xyz/m3u/usee-champion2-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", FOX SPORTS 1
-https://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8
+https://newbonetv.xyz/m3u/usee-foxsport1-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", FOX SPORTS 2
-https://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8
+https://newbonetv.xyz/m3u/usee-foxsport2-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", FOS SPORTS 3
-https://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8
+https://newbonetv.xyz/m3u/usee-foxsport3-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", GOLF PLUS
-https://oxoo.lk21tvonlineid.com/m3u/golfplus.m3u8
+https://newbonetv.xyz/m3u/usee-golfplus-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", OLYMPIC CHANNEL
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", NBA
-https://oxoo.lk21tvonlineid.com/m3u/nba.m3u8
+https://newbonetv.xyz/m3u/usee-nba-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="OLAHRAGA", WWE
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
@@ -214,13 +214,13 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ARIRANG KOREA
-https://oxoo.lk21tvonlineid.com/m3u/arirang.m3u8
+https://newbonetv.xyz/m3u/usee-arirang-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", K+
-https://oxoo.lk21tvonlineid.com/m3u/kplus.m3u8
+https://newbonetv.xyz/m3u/usee-kplus-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN
-https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
+https://newbonetv.xyz/m3u/usee-tvn-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", TVN MOVIES
 https://newbonetv.xyz/m3u/usee-tvnmovies-okebos.m3u8
@@ -229,13 +229,13 @@ https://newbonetv.xyz/m3u/usee-tvnmovies-okebos.m3u8
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", KBS WORLD
-https://oxoo.lk21tvonlineid.com/m3u/kbsworld.m3u8
+https://newbonetv.xyz/m3u/usee-kbsworld-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", GEM
-https://oxoo.lk21tvonlineid.com/m3u/sgem.m3u8
+https://newbonetv.xyz/m3u/usee-sgem-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ONE
-https://oxoo.lk21tvonlineid.com/m3u/sone.m3u8
+https://newbonetv.xyz/m3u/usee-sone-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
@@ -244,43 +244,43 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", BIOSKOP INDONESIA
-https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
+https://newbonetv.xyz/m3u/usee-bioskopindonesia-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CELESTIAL MOVIES
-https://oxoo.lk21tvonlineid.com/m3u/celestialmovie.m3u8
+https://newbonetv.xyz/m3u/usee-celestialmovie-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CHINESE DRAMA
-https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
+https://newbonetv.xyz/m3u/usee-chinesedrama-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CITRA DRAMA
-https://oxoo.lk21tvonlineid.com/m3u/cdrama.m3u8
+https://newbonetv.xyz/m3u/usee-cdrama-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FLIK
-https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
+https://newbonetv.xyz/m3u/usee-flik-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", GALAXY
-https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
+https://newbonetv.xyz/m3u/usee-galaxy-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", CINEMAX
-https://alwa.lk21tvonlineid.com/cinemax.m3u8
+https://newbonetv.xyz/m3u/Go-max-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", AXN
 https://newbonetv.xyz/m3u/usee-axn-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", IMC
-https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
+https://newbonetv.xyz/m3u/usee-imc-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", THRILL
-https://oxoo.lk21tvonlineid.com/m3u/thrill.m3u8
+https://newbonetv.xyz/m3u/usee-thrill-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", KIX
 https://newbonetv.xyz/m3u/usee-kix-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", WARNER TV
-https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
+https://newbonetv.xyz/m3u/usee-warner-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", ZEE BIOSKOP
-https://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8
+https://newbonetv.xyz/m3u/usee-zbioskop-okebos.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="FILM", FOX MOVIES
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
