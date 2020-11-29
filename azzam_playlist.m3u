@@ -46,7 +46,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", TVONE
-https://newbonetv.xyz/m3u/usee-tvone-okebos.m3u8
+https://newbonetv.xyz/stream/tvone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="BERITA", METRO TV
 http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
