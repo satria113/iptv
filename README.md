@@ -16,8 +16,6 @@ VLC : https://www.videolan.org/vlc/download-windows.id.html
 
 For Android, Android TV, STB
 -----------------------------------------
-IPTV Online : http://bit.ly/iptv_online
-
 Perfect Player : https://bit.ly/ptplayer
 
 Televizo : https://bit.ly/tlvizo
