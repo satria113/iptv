@@ -1,0 +1,274 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", SCTV
+https://omahtv.xyz/stream/usee-sctv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", INDOSIAR
+https://omahtv.xyz/stream/usee-indosiar-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", NET TV
+https://omahtv.xyz/stream/usee-net-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", RTV
+https://omahtv.xyz/stream/usee-rtv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", TRANS 7
+https://omahtv.xyz/stream/usee-trans7-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", TRANS TV
+https://omahtv.xyz/stream/usee-transtv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", METRO TV
+https://omahtv.xyz/stream/usee-metrotv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", KOMPAS TV
+https://omahtv.xyz/stream/usee-kompastv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", DAAI TV
+https://omahtv.xyz/stream/usee-daaitv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", TVRI
+https://omahtv.xyz/stream/vidio-tvri-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", BERITASATU
+https://omahtv.xyz/stream/usee-beritasatu-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", JAKTV
+https://omahtv.xyz/stream/usee-jaktv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM INDONESIA", RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", BIOSKOP INDONESIA
+https://omahtv.xyz/stream/usee-bioskopindonesia-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CELESTIAL MOVIE
+https://omahtv.xyz/stream/usee-celestialmovie-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CHINESE DRAMA
+https://omahtv.xyz/stream/usee-chinesedrama-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", CITRA DRAMA
+https://omahtv.xyz/stream/usee-cdrama-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", FLIK
+https://omahtv.xyz/stream/usee-flik-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", GALAXY
+https://omahtv.xyz/stream/usee-galaxy-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", AXN
+https://omahtv.xyz/stream/usee-axn-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", IMC
+https://omahtv.xyz/stream/usee-imc-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", THRILL
+https://omahtv.xyz/stream/usee-thrill-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", KIX
+https://omahtv.xyz/stream/usee-kix-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", WARNER TV
+https://omahtv.xyz/stream/usee-warner-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", ZEE BIOSKOP
+https://omahtv.xyz/stream/usee-zbioskop-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM MOVIES", USA
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ARIRANG KOREA
+https://omahtv.xyz/stream/plus-arirang-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", K+
+https://omahtv.xyz/stream/usee-kplus-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", ONE
+https://omahtv.xyz/stream/usee-sone-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", GEM
+https://omahtv.xyz/stream/usee-sgem-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", TVN
+https://omahtv.xyz/stream/usee-tvn-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", TVN MOVIES
+https://omahtv.xyz/stream/usee-tvnmovies-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", KBS WORLD
+https://omahtv.xyz/stream/usee-kbsworld-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KOREA", SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", BEIN SPORT 1
+https://omahtv.xyz/stream/usee-bein1-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", BEIN SPORT 2
+https://omahtv.xyz/stream/usee-bein2-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOX SPORTS 1
+https://omahtv.xyz/stream/usee-foxsport1-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOX SPORTS 2
+https://omahtv.xyz/stream/usee-foxsport2-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", FOS SPORTS 3
+https://omahtv.xyz/stream/usee-foxsport3-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", GOLF PLUS
+https://omahtv.xyz/stream/usee-golfplus-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", NBA
+https://omahtv.xyz/stream/usee-nba-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", RTM SPORTS
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM SPORTS", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", DUNIA ANAK
+https://omahtv.xyz/stream/usee-duniaanak-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", ANIMAX
+https://omahtv.xyz/stream/usee-animax-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", ANIPLUS
+https://omahtv.xyz/stream/usee-aniplus-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", BOOMERANG
+https://omahtv.xyz/stream/usee-boomerang-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", BABY FIRST
+https://omahtv.xyz/stream/usee-babyfirst-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", CARTOON NETWORK
+https://omahtv.xyz/stream/usee-cartoonnetwork-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", DREAMWORKS
+https://omahtv.xyz/stream/usee-dreamworks-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", DAVINCI
+https://omahtv.xyz/stream/usee-davinci-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", MYKIDS
+https://omahtv.xyz/stream/usee-mykids-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", NICKELODEON
+https://omahtv.xyz/stream/usee-nickelodeon-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KIDS", NICK JR
+https://omahtv.xyz/stream/usee-nickjr-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", INSERT
+https://omahtv.xyz/stream/usee-insert-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", DUNIA LAIN
+https://omahtv.xyz/stream/usee-dunialain-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", MNC SHOP
+https://omahtv.xyz/stream/usee-mncshop-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", EAT&GO
+https://omahtv.xyz/stream/usee-eatgo-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", CRIME INVESTIGATION
+https://omahtv.xyz/stream/usee-crimeinvestigation-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", LIFETIME
+https://omahtv.xyz/stream/usee-lifetime-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", BLUEANT
+https://omahtv.xyz/stream/usee-blueant-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", BLUEANT EXTREME
+https://omahtv.xyz/stream/usee-blueantextreme-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", USEE PHOTO
+https://omahtv.xyz/stream/usee-useephoto-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", USEE PRIME
+https://omahtv.xyz/stream/usee-useeprime-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", RUANG TRAMPIL
+https://omahtv.xyz/stream/usee-useeinfo-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", FASHION ONE
+https://omahtv.xyz/stream/usee-fashionone-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM ENTERTAINMENT", FASHION TV
+https://omahtv.xyz/stream/usee-fashiontv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", AFN
+https://omahtv.xyz/stream/usee-afc-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", HGTV
+https://omahtv.xyz/stream/usee-hgtv-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", CGN
+https://omahtv.xyz/stream/usee-crimeinvestigation-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", LOVE NATURE 4K
+https://etslive-2-vidio-com.akamaized.net/exp=1607349470~acl=/hls-p/ingest_geo_6635_*/*~hmac=6a6f9ab3de58421094aab15cf35056193a0ba353e9067f3a1fc7873a5d54a1df/hls-p/ingest_geo_6635_360p/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", ANIMAL PLANET
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", BBC EARTH
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", BBC LIFESTYLE
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", DISCOVERY CHANNEL
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", HISTORY
+https://omahtv.xyz/stream/usee-history-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO
+https://omahtv.xyz/stream/usee-natgeo-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO WILD
+https://omahtv.xyz/stream/usee-natgeowild-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", NAT GEO PEOPLE
+https://omahtv.xyz/stream/usee-natgeopeople-VIP-Channel-LK21-OmahTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", PEOPLE SCIENCE
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="AZZAM KNOWLEDGE", WAKU WAKU
+https://omahtv.xyz/stream/usee-wakuwaku-VIP-Channel-LK21-OmahTV.m3u8
