@@ -96,9 +96,6 @@ https://omahtv.xyz/stream/usee-warner-VIP-Channel-LK21-OmahTV.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="MOVIES", ZEE BIOSKOP
 https://omahtv.xyz/stream/usee-zbioskop-VIP-Channel-LK21-OmahTV.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="MOVIES", USA
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KOREA", ARIRANG KOREA
 https://omahtv.xyz/stream/plus-arirang-VIP-Channel-LK21-OmahTV.m3u8
 
@@ -155,6 +152,9 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="SPORTS", REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="SPORTS", USA
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KIDS", DUNIA ANAK
 https://omahtv.xyz/stream/usee-duniaanak-VIP-Channel-LK21-OmahTV.m3u8
