@@ -82,7 +82,8 @@ https://omahtv.xyz/stream/usee-galaxy-VIP-Channel-LK21-OmahTV.m3u8
 https://omahtv.xyz/stream/usee-axn-VIP-Channel-LK21-OmahTV.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="MOVIES", IMC
-https://omahtv.xyz/stream/usee-imc-VIP-Channel-LK21-OmahTV.m3u8
+#https://omahtv.xyz/stream/usee-imc-VIP-Channel-LK21-OmahTV.m3u8
+https://cdnbdsa1.useetv.com/joss/14/imc/chunklist_w1732576703_b684100_sleng.m3u8?enc=-sdKty5CFmsNsAlRXVaUCw&exp=1607841830
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="MOVIES", THRILL
 https://omahtv.xyz/stream/usee-thrill-VIP-Channel-LK21-OmahTV.m3u8
